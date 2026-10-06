@@ -1,0 +1,5 @@
+node_modules/
+*.log
+.env
+fabric-samples/
+chaincode/ehr-chaincode/vendor/

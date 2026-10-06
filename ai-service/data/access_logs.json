@@ -1,0 +1,3017 @@
+[
+  {
+    "log_id": "LOG10103",
+    "user_id": "DOC107",
+    "role": "doctor",
+    "record_id": "EHR1086",
+    "action": "write",
+    "timestamp": "2026-09-09T12:34:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10305",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1067",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:10",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10266",
+    "user_id": "NUR202",
+    "role": "nurse",
+    "record_id": "EHR1022",
+    "action": "write",
+    "timestamp": "2026-09-09T16:36:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10283",
+    "user_id": "NUR202",
+    "role": "nurse",
+    "record_id": "EHR1045",
+    "action": "write",
+    "timestamp": "2026-09-09T14:49:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10314",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1113",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:28",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10070",
+    "user_id": "DOC103",
+    "role": "admin",
+    "record_id": "EHR1083",
+    "action": "write",
+    "timestamp": "2026-09-09T17:17:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10249",
+    "user_id": "DOC104",
+    "role": "admin",
+    "record_id": "EHR1001",
+    "action": "read",
+    "timestamp": "2026-09-09T18:52:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10079",
+    "user_id": "DOC107",
+    "role": "admin",
+    "record_id": "EHR1007",
+    "action": "read",
+    "timestamp": "2026-09-09T15:33:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10125",
+    "user_id": "DOC102",
+    "role": "nurse",
+    "record_id": "EHR1150",
+    "action": "read",
+    "timestamp": "2026-09-09T14:43:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10213",
+    "user_id": "DOC105",
+    "role": "nurse",
+    "record_id": "EHR1043",
+    "action": "read",
+    "timestamp": "2026-09-09T08:02:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10199",
+    "user_id": "DOC104",
+    "role": "doctor",
+    "record_id": "EHR1170",
+    "action": "write",
+    "timestamp": "2026-09-09T14:19:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10169",
+    "user_id": "DOC100",
+    "role": "admin",
+    "record_id": "EHR1032",
+    "action": "read",
+    "timestamp": "2026-09-09T16:03:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10143",
+    "user_id": "NUR201",
+    "role": "admin",
+    "record_id": "EHR1077",
+    "action": "read",
+    "timestamp": "2026-09-09T08:12:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10080",
+    "user_id": "DOC105",
+    "role": "admin",
+    "record_id": "EHR1129",
+    "action": "read",
+    "timestamp": "2026-09-09T19:49:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10018",
+    "user_id": "NUR204",
+    "role": "nurse",
+    "record_id": "EHR1107",
+    "action": "read",
+    "timestamp": "2026-09-09T19:24:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10077",
+    "user_id": "NUR204",
+    "role": "admin",
+    "record_id": "EHR1014",
+    "action": "read",
+    "timestamp": "2026-09-09T11:15:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10245",
+    "user_id": "DOC101",
+    "role": "doctor",
+    "record_id": "EHR1121",
+    "action": "read",
+    "timestamp": "2026-09-09T15:39:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10119",
+    "user_id": "DOC104",
+    "role": "nurse",
+    "record_id": "EHR1000",
+    "action": "write",
+    "timestamp": "2026-09-09T14:12:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10030",
+    "user_id": "DOC105",
+    "role": "admin",
+    "record_id": "EHR1097",
+    "action": "read",
+    "timestamp": "2026-09-09T10:34:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10069",
+    "user_id": "DOC100",
+    "role": "nurse",
+    "record_id": "EHR1054",
+    "action": "write",
+    "timestamp": "2026-09-09T16:33:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10039",
+    "user_id": "DOC107",
+    "role": "doctor",
+    "record_id": "EHR1028",
+    "action": "write",
+    "timestamp": "2026-09-09T18:15:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10224",
+    "user_id": "DOC100",
+    "role": "nurse",
+    "record_id": "EHR1191",
+    "action": "write",
+    "timestamp": "2026-09-09T12:42:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10106",
+    "user_id": "NUR204",
+    "role": "nurse",
+    "record_id": "EHR1160",
+    "action": "write",
+    "timestamp": "2026-09-09T17:03:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10004",
+    "user_id": "DOC108",
+    "role": "nurse",
+    "record_id": "EHR1015",
+    "action": "read",
+    "timestamp": "2026-09-09T11:48:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10188",
+    "user_id": "DOC103",
+    "role": "doctor",
+    "record_id": "EHR1038",
+    "action": "read",
+    "timestamp": "2026-09-09T19:57:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10147",
+    "user_id": "DOC107",
+    "role": "doctor",
+    "record_id": "EHR1140",
+    "action": "read",
+    "timestamp": "2026-09-09T13:19:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10264",
+    "user_id": "DOC106",
+    "role": "admin",
+    "record_id": "EHR1093",
+    "action": "write",
+    "timestamp": "2026-09-09T10:46:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10278",
+    "user_id": "DOC106",
+    "role": "admin",
+    "record_id": "EHR1116",
+    "action": "write",
+    "timestamp": "2026-09-09T19:04:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10209",
+    "user_id": "DOC102",
+    "role": "nurse",
+    "record_id": "EHR1115",
+    "action": "write",
+    "timestamp": "2026-09-09T09:55:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10318",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1190",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:36",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10140",
+    "user_id": "NUR203",
+    "role": "nurse",
+    "record_id": "EHR1019",
+    "action": "write",
+    "timestamp": "2026-09-09T19:40:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10015",
+    "user_id": "DOC109",
+    "role": "nurse",
+    "record_id": "EHR1134",
+    "action": "write",
+    "timestamp": "2026-09-09T13:51:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10282",
+    "user_id": "DOC107",
+    "role": "nurse",
+    "record_id": "EHR1060",
+    "action": "write",
+    "timestamp": "2026-09-09T18:33:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10165",
+    "user_id": "NUR204",
+    "role": "doctor",
+    "record_id": "EHR1194",
+    "action": "write",
+    "timestamp": "2026-09-09T17:27:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10057",
+    "user_id": "DOC107",
+    "role": "doctor",
+    "record_id": "EHR1086",
+    "action": "read",
+    "timestamp": "2026-09-09T16:14:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10195",
+    "user_id": "DOC108",
+    "role": "nurse",
+    "record_id": "EHR1117",
+    "action": "write",
+    "timestamp": "2026-09-09T13:23:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10171",
+    "user_id": "NUR201",
+    "role": "admin",
+    "record_id": "EHR1167",
+    "action": "write",
+    "timestamp": "2026-09-09T14:55:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10186",
+    "user_id": "DOC107",
+    "role": "doctor",
+    "record_id": "EHR1018",
+    "action": "write",
+    "timestamp": "2026-09-09T17:00:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10058",
+    "user_id": "DOC109",
+    "role": "admin",
+    "record_id": "EHR1000",
+    "action": "write",
+    "timestamp": "2026-09-09T19:08:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10232",
+    "user_id": "NUR202",
+    "role": "doctor",
+    "record_id": "EHR1063",
+    "action": "write",
+    "timestamp": "2026-09-09T09:06:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10046",
+    "user_id": "NUR201",
+    "role": "nurse",
+    "record_id": "EHR1189",
+    "action": "write",
+    "timestamp": "2026-09-09T16:10:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10235",
+    "user_id": "DOC101",
+    "role": "doctor",
+    "record_id": "EHR1024",
+    "action": "write",
+    "timestamp": "2026-09-09T16:30:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10042",
+    "user_id": "NUR203",
+    "role": "doctor",
+    "record_id": "EHR1157",
+    "action": "write",
+    "timestamp": "2026-09-09T10:32:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10156",
+    "user_id": "DOC106",
+    "role": "nurse",
+    "record_id": "EHR1096",
+    "action": "write",
+    "timestamp": "2026-09-09T10:03:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10342",
+    "user_id": "DOC109",
+    "role": "nurse",
+    "record_id": "EHR1160",
+    "action": "read",
+    "timestamp": "2026-09-09T03:49:00",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10109",
+    "user_id": "DOC104",
+    "role": "doctor",
+    "record_id": "EHR1003",
+    "action": "read",
+    "timestamp": "2026-09-09T16:37:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10306",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1096",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:12",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10196",
+    "user_id": "NUR200",
+    "role": "doctor",
+    "record_id": "EHR1121",
+    "action": "read",
+    "timestamp": "2026-09-09T17:20:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10210",
+    "user_id": "DOC101",
+    "role": "doctor",
+    "record_id": "EHR1084",
+    "action": "read",
+    "timestamp": "2026-09-09T11:09:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10002",
+    "user_id": "DOC100",
+    "role": "admin",
+    "record_id": "EHR1054",
+    "action": "read",
+    "timestamp": "2026-09-09T09:28:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10193",
+    "user_id": "DOC101",
+    "role": "nurse",
+    "record_id": "EHR1134",
+    "action": "read",
+    "timestamp": "2026-09-09T14:37:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10134",
+    "user_id": "DOC106",
+    "role": "nurse",
+    "record_id": "EHR1142",
+    "action": "read",
+    "timestamp": "2026-09-09T18:42:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10142",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1084",
+    "action": "write",
+    "timestamp": "2026-09-09T19:07:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10163",
+    "user_id": "NUR204",
+    "role": "doctor",
+    "record_id": "EHR1063",
+    "action": "write",
+    "timestamp": "2026-09-09T15:26:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10311",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1084",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:22",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10166",
+    "user_id": "DOC108",
+    "role": "doctor",
+    "record_id": "EHR1184",
+    "action": "read",
+    "timestamp": "2026-09-09T08:50:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10034",
+    "user_id": "DOC105",
+    "role": "admin",
+    "record_id": "EHR1144",
+    "action": "write",
+    "timestamp": "2026-09-09T10:08:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10315",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1058",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:30",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10087",
+    "user_id": "NUR200",
+    "role": "nurse",
+    "record_id": "EHR1036",
+    "action": "write",
+    "timestamp": "2026-09-09T10:20:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10274",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1010",
+    "action": "write",
+    "timestamp": "2026-09-09T16:50:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10242",
+    "user_id": "DOC104",
+    "role": "admin",
+    "record_id": "EHR1048",
+    "action": "write",
+    "timestamp": "2026-09-09T09:06:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10056",
+    "user_id": "DOC105",
+    "role": "doctor",
+    "record_id": "EHR1056",
+    "action": "read",
+    "timestamp": "2026-09-09T11:52:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10214",
+    "user_id": "DOC101",
+    "role": "nurse",
+    "record_id": "EHR1020",
+    "action": "write",
+    "timestamp": "2026-09-09T15:10:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10048",
+    "user_id": "DOC108",
+    "role": "nurse",
+    "record_id": "EHR1037",
+    "action": "read",
+    "timestamp": "2026-09-09T17:00:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10248",
+    "user_id": "DOC105",
+    "role": "admin",
+    "record_id": "EHR1045",
+    "action": "write",
+    "timestamp": "2026-09-09T18:17:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10064",
+    "user_id": "DOC102",
+    "role": "doctor",
+    "record_id": "EHR1038",
+    "action": "write",
+    "timestamp": "2026-09-09T19:11:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10257",
+    "user_id": "DOC108",
+    "role": "doctor",
+    "record_id": "EHR1167",
+    "action": "read",
+    "timestamp": "2026-09-09T14:47:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10092",
+    "user_id": "NUR201",
+    "role": "nurse",
+    "record_id": "EHR1004",
+    "action": "write",
+    "timestamp": "2026-09-09T17:27:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10038",
+    "user_id": "DOC106",
+    "role": "doctor",
+    "record_id": "EHR1048",
+    "action": "read",
+    "timestamp": "2026-09-09T11:33:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10254",
+    "user_id": "DOC109",
+    "role": "nurse",
+    "record_id": "EHR1019",
+    "action": "read",
+    "timestamp": "2026-09-09T08:32:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10047",
+    "user_id": "NUR203",
+    "role": "admin",
+    "record_id": "EHR1041",
+    "action": "read",
+    "timestamp": "2026-09-09T11:30:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10268",
+    "user_id": "DOC108",
+    "role": "doctor",
+    "record_id": "EHR1017",
+    "action": "read",
+    "timestamp": "2026-09-09T14:32:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10261",
+    "user_id": "NUR203",
+    "role": "nurse",
+    "record_id": "EHR1164",
+    "action": "read",
+    "timestamp": "2026-09-09T14:40:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10341",
+    "user_id": "DOC102",
+    "role": "nurse",
+    "record_id": "EHR1074",
+    "action": "read",
+    "timestamp": "2026-09-09T03:48:00",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10050",
+    "user_id": "DOC105",
+    "role": "doctor",
+    "record_id": "EHR1091",
+    "action": "read",
+    "timestamp": "2026-09-09T17:05:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10172",
+    "user_id": "NUR200",
+    "role": "doctor",
+    "record_id": "EHR1077",
+    "action": "write",
+    "timestamp": "2026-09-09T17:30:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10219",
+    "user_id": "NUR201",
+    "role": "nurse",
+    "record_id": "EHR1007",
+    "action": "write",
+    "timestamp": "2026-09-09T12:13:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10045",
+    "user_id": "DOC107",
+    "role": "nurse",
+    "record_id": "EHR1021",
+    "action": "read",
+    "timestamp": "2026-09-09T09:44:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10294",
+    "user_id": "NUR204",
+    "role": "nurse",
+    "record_id": "EHR1053",
+    "action": "write",
+    "timestamp": "2026-09-09T18:30:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10239",
+    "user_id": "DOC104",
+    "role": "nurse",
+    "record_id": "EHR1145",
+    "action": "write",
+    "timestamp": "2026-09-09T14:21:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10071",
+    "user_id": "DOC106",
+    "role": "doctor",
+    "record_id": "EHR1015",
+    "action": "write",
+    "timestamp": "2026-09-09T15:49:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10270",
+    "user_id": "NUR204",
+    "role": "nurse",
+    "record_id": "EHR1080",
+    "action": "read",
+    "timestamp": "2026-09-09T18:22:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10299",
+    "user_id": "NUR203",
+    "role": "nurse",
+    "record_id": "EHR1115",
+    "action": "read",
+    "timestamp": "2026-09-09T12:18:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10145",
+    "user_id": "DOC101",
+    "role": "admin",
+    "record_id": "EHR1055",
+    "action": "write",
+    "timestamp": "2026-09-09T12:57:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10014",
+    "user_id": "DOC103",
+    "role": "doctor",
+    "record_id": "EHR1178",
+    "action": "read",
+    "timestamp": "2026-09-09T09:23:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10112",
+    "user_id": "DOC107",
+    "role": "admin",
+    "record_id": "EHR1100",
+    "action": "write",
+    "timestamp": "2026-09-09T19:44:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10117",
+    "user_id": "NUR200",
+    "role": "nurse",
+    "record_id": "EHR1153",
+    "action": "read",
+    "timestamp": "2026-09-09T19:49:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10279",
+    "user_id": "DOC106",
+    "role": "nurse",
+    "record_id": "EHR1149",
+    "action": "read",
+    "timestamp": "2026-09-09T15:15:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10202",
+    "user_id": "NUR202",
+    "role": "nurse",
+    "record_id": "EHR1189",
+    "action": "read",
+    "timestamp": "2026-09-09T11:30:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10107",
+    "user_id": "NUR202",
+    "role": "doctor",
+    "record_id": "EHR1074",
+    "action": "write",
+    "timestamp": "2026-09-09T16:32:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10020",
+    "user_id": "NUR201",
+    "role": "nurse",
+    "record_id": "EHR1152",
+    "action": "write",
+    "timestamp": "2026-09-09T17:53:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10255",
+    "user_id": "NUR202",
+    "role": "nurse",
+    "record_id": "EHR1140",
+    "action": "write",
+    "timestamp": "2026-09-09T09:04:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10189",
+    "user_id": "NUR200",
+    "role": "nurse",
+    "record_id": "EHR1021",
+    "action": "read",
+    "timestamp": "2026-09-09T08:01:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10139",
+    "user_id": "DOC103",
+    "role": "admin",
+    "record_id": "EHR1166",
+    "action": "write",
+    "timestamp": "2026-09-09T16:25:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10319",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1012",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:38",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10194",
+    "user_id": "DOC104",
+    "role": "doctor",
+    "record_id": "EHR1153",
+    "action": "read",
+    "timestamp": "2026-09-09T08:10:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10180",
+    "user_id": "DOC103",
+    "role": "nurse",
+    "record_id": "EHR1069",
+    "action": "write",
+    "timestamp": "2026-09-09T09:03:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10329",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1000",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:58",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10200",
+    "user_id": "DOC103",
+    "role": "nurse",
+    "record_id": "EHR1008",
+    "action": "write",
+    "timestamp": "2026-09-09T15:10:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10101",
+    "user_id": "NUR200",
+    "role": "doctor",
+    "record_id": "EHR1066",
+    "action": "read",
+    "timestamp": "2026-09-09T18:22:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10204",
+    "user_id": "DOC107",
+    "role": "doctor",
+    "record_id": "EHR1067",
+    "action": "write",
+    "timestamp": "2026-09-09T09:51:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10062",
+    "user_id": "NUR202",
+    "role": "admin",
+    "record_id": "EHR1101",
+    "action": "write",
+    "timestamp": "2026-09-09T14:51:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10126",
+    "user_id": "DOC100",
+    "role": "nurse",
+    "record_id": "EHR1077",
+    "action": "read",
+    "timestamp": "2026-09-09T09:26:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10118",
+    "user_id": "DOC104",
+    "role": "doctor",
+    "record_id": "EHR1117",
+    "action": "read",
+    "timestamp": "2026-09-09T10:41:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10123",
+    "user_id": "DOC104",
+    "role": "admin",
+    "record_id": "EHR1167",
+    "action": "read",
+    "timestamp": "2026-09-09T12:14:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10096",
+    "user_id": "DOC104",
+    "role": "nurse",
+    "record_id": "EHR1010",
+    "action": "read",
+    "timestamp": "2026-09-09T12:36:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10208",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1106",
+    "action": "read",
+    "timestamp": "2026-09-09T09:01:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10113",
+    "user_id": "DOC103",
+    "role": "doctor",
+    "record_id": "EHR1087",
+    "action": "read",
+    "timestamp": "2026-09-09T18:51:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10325",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1149",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:50",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10304",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1095",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:08",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10288",
+    "user_id": "NUR202",
+    "role": "doctor",
+    "record_id": "EHR1006",
+    "action": "read",
+    "timestamp": "2026-09-09T18:28:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10293",
+    "user_id": "DOC104",
+    "role": "nurse",
+    "record_id": "EHR1036",
+    "action": "write",
+    "timestamp": "2026-09-09T16:34:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10226",
+    "user_id": "NUR203",
+    "role": "doctor",
+    "record_id": "EHR1027",
+    "action": "write",
+    "timestamp": "2026-09-09T15:56:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10206",
+    "user_id": "DOC107",
+    "role": "nurse",
+    "record_id": "EHR1170",
+    "action": "read",
+    "timestamp": "2026-09-09T18:09:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10312",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1195",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:24",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10132",
+    "user_id": "DOC109",
+    "role": "admin",
+    "record_id": "EHR1174",
+    "action": "read",
+    "timestamp": "2026-09-09T09:27:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10168",
+    "user_id": "NUR202",
+    "role": "doctor",
+    "record_id": "EHR1164",
+    "action": "write",
+    "timestamp": "2026-09-09T16:17:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10130",
+    "user_id": "NUR200",
+    "role": "doctor",
+    "record_id": "EHR1011",
+    "action": "write",
+    "timestamp": "2026-09-09T19:57:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10110",
+    "user_id": "DOC108",
+    "role": "doctor",
+    "record_id": "EHR1131",
+    "action": "write",
+    "timestamp": "2026-09-09T12:11:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10091",
+    "user_id": "DOC106",
+    "role": "doctor",
+    "record_id": "EHR1091",
+    "action": "write",
+    "timestamp": "2026-09-09T09:34:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10160",
+    "user_id": "DOC101",
+    "role": "nurse",
+    "record_id": "EHR1099",
+    "action": "read",
+    "timestamp": "2026-09-09T14:09:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10300",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1137",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:00",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10271",
+    "user_id": "NUR204",
+    "role": "admin",
+    "record_id": "EHR1099",
+    "action": "read",
+    "timestamp": "2026-09-09T18:35:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10183",
+    "user_id": "DOC104",
+    "role": "doctor",
+    "record_id": "EHR1098",
+    "action": "write",
+    "timestamp": "2026-09-09T19:01:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10090",
+    "user_id": "NUR201",
+    "role": "nurse",
+    "record_id": "EHR1131",
+    "action": "write",
+    "timestamp": "2026-09-09T13:47:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10220",
+    "user_id": "NUR202",
+    "role": "admin",
+    "record_id": "EHR1196",
+    "action": "write",
+    "timestamp": "2026-09-09T08:41:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10044",
+    "user_id": "DOC101",
+    "role": "doctor",
+    "record_id": "EHR1124",
+    "action": "write",
+    "timestamp": "2026-09-09T16:11:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10148",
+    "user_id": "DOC101",
+    "role": "nurse",
+    "record_id": "EHR1004",
+    "action": "write",
+    "timestamp": "2026-09-09T15:49:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10197",
+    "user_id": "DOC103",
+    "role": "doctor",
+    "record_id": "EHR1105",
+    "action": "write",
+    "timestamp": "2026-09-09T08:56:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10131",
+    "user_id": "NUR202",
+    "role": "admin",
+    "record_id": "EHR1035",
+    "action": "read",
+    "timestamp": "2026-09-09T19:42:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10105",
+    "user_id": "DOC102",
+    "role": "nurse",
+    "record_id": "EHR1012",
+    "action": "read",
+    "timestamp": "2026-09-09T11:26:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10233",
+    "user_id": "NUR200",
+    "role": "doctor",
+    "record_id": "EHR1123",
+    "action": "write",
+    "timestamp": "2026-09-09T10:44:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10152",
+    "user_id": "DOC109",
+    "role": "admin",
+    "record_id": "EHR1130",
+    "action": "write",
+    "timestamp": "2026-09-09T09:55:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10281",
+    "user_id": "DOC107",
+    "role": "doctor",
+    "record_id": "EHR1005",
+    "action": "read",
+    "timestamp": "2026-09-09T18:33:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10128",
+    "user_id": "NUR204",
+    "role": "admin",
+    "record_id": "EHR1152",
+    "action": "write",
+    "timestamp": "2026-09-09T13:33:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10082",
+    "user_id": "DOC103",
+    "role": "admin",
+    "record_id": "EHR1133",
+    "action": "write",
+    "timestamp": "2026-09-09T17:32:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10094",
+    "user_id": "DOC105",
+    "role": "admin",
+    "record_id": "EHR1159",
+    "action": "write",
+    "timestamp": "2026-09-09T16:44:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10284",
+    "user_id": "DOC101",
+    "role": "doctor",
+    "record_id": "EHR1032",
+    "action": "write",
+    "timestamp": "2026-09-09T15:20:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10275",
+    "user_id": "DOC102",
+    "role": "nurse",
+    "record_id": "EHR1091",
+    "action": "read",
+    "timestamp": "2026-09-09T10:33:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10065",
+    "user_id": "DOC102",
+    "role": "admin",
+    "record_id": "EHR1152",
+    "action": "write",
+    "timestamp": "2026-09-09T19:13:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10256",
+    "user_id": "DOC106",
+    "role": "doctor",
+    "record_id": "EHR1101",
+    "action": "read",
+    "timestamp": "2026-09-09T18:54:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10297",
+    "user_id": "NUR204",
+    "role": "nurse",
+    "record_id": "EHR1173",
+    "action": "write",
+    "timestamp": "2026-09-09T14:25:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10221",
+    "user_id": "DOC106",
+    "role": "doctor",
+    "record_id": "EHR1118",
+    "action": "read",
+    "timestamp": "2026-09-09T09:03:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10108",
+    "user_id": "NUR200",
+    "role": "doctor",
+    "record_id": "EHR1069",
+    "action": "write",
+    "timestamp": "2026-09-09T08:18:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10086",
+    "user_id": "NUR200",
+    "role": "nurse",
+    "record_id": "EHR1031",
+    "action": "read",
+    "timestamp": "2026-09-09T18:58:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10280",
+    "user_id": "DOC106",
+    "role": "admin",
+    "record_id": "EHR1094",
+    "action": "write",
+    "timestamp": "2026-09-09T16:35:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10229",
+    "user_id": "NUR203",
+    "role": "admin",
+    "record_id": "EHR1197",
+    "action": "read",
+    "timestamp": "2026-09-09T18:21:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10157",
+    "user_id": "NUR203",
+    "role": "nurse",
+    "record_id": "EHR1000",
+    "action": "write",
+    "timestamp": "2026-09-09T13:46:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10150",
+    "user_id": "DOC103",
+    "role": "doctor",
+    "record_id": "EHR1019",
+    "action": "read",
+    "timestamp": "2026-09-09T10:25:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10033",
+    "user_id": "DOC104",
+    "role": "doctor",
+    "record_id": "EHR1037",
+    "action": "write",
+    "timestamp": "2026-09-09T17:07:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10025",
+    "user_id": "DOC107",
+    "role": "nurse",
+    "record_id": "EHR1043",
+    "action": "read",
+    "timestamp": "2026-09-09T16:25:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10122",
+    "user_id": "DOC100",
+    "role": "nurse",
+    "record_id": "EHR1097",
+    "action": "read",
+    "timestamp": "2026-09-09T16:06:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10073",
+    "user_id": "DOC102",
+    "role": "admin",
+    "record_id": "EHR1038",
+    "action": "read",
+    "timestamp": "2026-09-09T15:30:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10295",
+    "user_id": "DOC108",
+    "role": "doctor",
+    "record_id": "EHR1081",
+    "action": "write",
+    "timestamp": "2026-09-09T08:37:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10323",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1079",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:46",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10184",
+    "user_id": "DOC107",
+    "role": "nurse",
+    "record_id": "EHR1079",
+    "action": "read",
+    "timestamp": "2026-09-09T10:10:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10240",
+    "user_id": "DOC104",
+    "role": "admin",
+    "record_id": "EHR1066",
+    "action": "read",
+    "timestamp": "2026-09-09T15:29:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10321",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1132",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:42",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10052",
+    "user_id": "NUR202",
+    "role": "doctor",
+    "record_id": "EHR1061",
+    "action": "write",
+    "timestamp": "2026-09-09T11:52:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10063",
+    "user_id": "NUR201",
+    "role": "doctor",
+    "record_id": "EHR1185",
+    "action": "read",
+    "timestamp": "2026-09-09T10:54:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10324",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1163",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:48",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10098",
+    "user_id": "DOC102",
+    "role": "admin",
+    "record_id": "EHR1131",
+    "action": "write",
+    "timestamp": "2026-09-09T19:57:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10167",
+    "user_id": "NUR204",
+    "role": "admin",
+    "record_id": "EHR1105",
+    "action": "write",
+    "timestamp": "2026-09-09T18:29:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10136",
+    "user_id": "DOC104",
+    "role": "doctor",
+    "record_id": "EHR1116",
+    "action": "read",
+    "timestamp": "2026-09-09T16:35:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10217",
+    "user_id": "NUR201",
+    "role": "nurse",
+    "record_id": "EHR1050",
+    "action": "write",
+    "timestamp": "2026-09-09T17:14:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10093",
+    "user_id": "DOC107",
+    "role": "nurse",
+    "record_id": "EHR1180",
+    "action": "read",
+    "timestamp": "2026-09-09T14:33:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10151",
+    "user_id": "NUR201",
+    "role": "admin",
+    "record_id": "EHR1067",
+    "action": "write",
+    "timestamp": "2026-09-09T10:15:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10016",
+    "user_id": "NUR201",
+    "role": "nurse",
+    "record_id": "EHR1073",
+    "action": "read",
+    "timestamp": "2026-09-09T10:00:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10328",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1187",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:56",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10017",
+    "user_id": "DOC108",
+    "role": "nurse",
+    "record_id": "EHR1042",
+    "action": "write",
+    "timestamp": "2026-09-09T10:35:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10174",
+    "user_id": "DOC102",
+    "role": "doctor",
+    "record_id": "EHR1053",
+    "action": "write",
+    "timestamp": "2026-09-09T17:23:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10237",
+    "user_id": "DOC106",
+    "role": "nurse",
+    "record_id": "EHR1158",
+    "action": "read",
+    "timestamp": "2026-09-09T17:11:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10247",
+    "user_id": "DOC101",
+    "role": "doctor",
+    "record_id": "EHR1048",
+    "action": "read",
+    "timestamp": "2026-09-09T09:16:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10035",
+    "user_id": "NUR201",
+    "role": "admin",
+    "record_id": "EHR1158",
+    "action": "read",
+    "timestamp": "2026-09-09T15:47:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10010",
+    "user_id": "DOC109",
+    "role": "admin",
+    "record_id": "EHR1048",
+    "action": "write",
+    "timestamp": "2026-09-09T09:39:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10176",
+    "user_id": "DOC102",
+    "role": "admin",
+    "record_id": "EHR1049",
+    "action": "read",
+    "timestamp": "2026-09-09T09:32:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10307",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1094",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:14",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10036",
+    "user_id": "NUR204",
+    "role": "admin",
+    "record_id": "EHR1143",
+    "action": "write",
+    "timestamp": "2026-09-09T14:47:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10088",
+    "user_id": "DOC107",
+    "role": "doctor",
+    "record_id": "EHR1191",
+    "action": "read",
+    "timestamp": "2026-09-09T14:47:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10258",
+    "user_id": "NUR201",
+    "role": "nurse",
+    "record_id": "EHR1104",
+    "action": "write",
+    "timestamp": "2026-09-09T19:23:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10218",
+    "user_id": "NUR204",
+    "role": "nurse",
+    "record_id": "EHR1049",
+    "action": "write",
+    "timestamp": "2026-09-09T14:12:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10327",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1080",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:54",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10296",
+    "user_id": "DOC103",
+    "role": "doctor",
+    "record_id": "EHR1103",
+    "action": "read",
+    "timestamp": "2026-09-09T18:51:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10198",
+    "user_id": "DOC100",
+    "role": "doctor",
+    "record_id": "EHR1127",
+    "action": "write",
+    "timestamp": "2026-09-09T09:23:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10008",
+    "user_id": "DOC108",
+    "role": "doctor",
+    "record_id": "EHR1146",
+    "action": "write",
+    "timestamp": "2026-09-09T17:33:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10037",
+    "user_id": "DOC106",
+    "role": "nurse",
+    "record_id": "EHR1026",
+    "action": "write",
+    "timestamp": "2026-09-09T18:49:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10222",
+    "user_id": "DOC104",
+    "role": "doctor",
+    "record_id": "EHR1191",
+    "action": "read",
+    "timestamp": "2026-09-09T18:20:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10144",
+    "user_id": "DOC107",
+    "role": "doctor",
+    "record_id": "EHR1124",
+    "action": "write",
+    "timestamp": "2026-09-09T19:28:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10019",
+    "user_id": "DOC101",
+    "role": "admin",
+    "record_id": "EHR1146",
+    "action": "write",
+    "timestamp": "2026-09-09T13:48:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10149",
+    "user_id": "DOC101",
+    "role": "admin",
+    "record_id": "EHR1115",
+    "action": "write",
+    "timestamp": "2026-09-09T14:36:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10159",
+    "user_id": "NUR204",
+    "role": "admin",
+    "record_id": "EHR1074",
+    "action": "write",
+    "timestamp": "2026-09-09T14:21:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10276",
+    "user_id": "DOC103",
+    "role": "admin",
+    "record_id": "EHR1049",
+    "action": "read",
+    "timestamp": "2026-09-09T17:35:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10322",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1064",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:44",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10078",
+    "user_id": "DOC104",
+    "role": "doctor",
+    "record_id": "EHR1197",
+    "action": "read",
+    "timestamp": "2026-09-09T16:39:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10146",
+    "user_id": "NUR201",
+    "role": "admin",
+    "record_id": "EHR1073",
+    "action": "write",
+    "timestamp": "2026-09-09T15:57:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10291",
+    "user_id": "NUR202",
+    "role": "admin",
+    "record_id": "EHR1056",
+    "action": "read",
+    "timestamp": "2026-09-09T13:59:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10185",
+    "user_id": "DOC100",
+    "role": "nurse",
+    "record_id": "EHR1181",
+    "action": "write",
+    "timestamp": "2026-09-09T18:01:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10234",
+    "user_id": "DOC106",
+    "role": "doctor",
+    "record_id": "EHR1018",
+    "action": "write",
+    "timestamp": "2026-09-09T18:39:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10277",
+    "user_id": "NUR203",
+    "role": "admin",
+    "record_id": "EHR1009",
+    "action": "write",
+    "timestamp": "2026-09-09T10:00:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10326",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1169",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:52",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10178",
+    "user_id": "DOC103",
+    "role": "nurse",
+    "record_id": "EHR1066",
+    "action": "read",
+    "timestamp": "2026-09-09T08:20:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10316",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1045",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:32",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10203",
+    "user_id": "DOC107",
+    "role": "doctor",
+    "record_id": "EHR1079",
+    "action": "read",
+    "timestamp": "2026-09-09T11:56:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10120",
+    "user_id": "DOC105",
+    "role": "admin",
+    "record_id": "EHR1082",
+    "action": "read",
+    "timestamp": "2026-09-09T08:35:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10137",
+    "user_id": "NUR204",
+    "role": "admin",
+    "record_id": "EHR1023",
+    "action": "read",
+    "timestamp": "2026-09-09T16:05:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10170",
+    "user_id": "DOC106",
+    "role": "nurse",
+    "record_id": "EHR1072",
+    "action": "write",
+    "timestamp": "2026-09-09T12:21:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10263",
+    "user_id": "NUR204",
+    "role": "doctor",
+    "record_id": "EHR1108",
+    "action": "read",
+    "timestamp": "2026-09-09T09:32:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10161",
+    "user_id": "NUR204",
+    "role": "nurse",
+    "record_id": "EHR1193",
+    "action": "write",
+    "timestamp": "2026-09-09T08:49:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10097",
+    "user_id": "NUR202",
+    "role": "doctor",
+    "record_id": "EHR1108",
+    "action": "write",
+    "timestamp": "2026-09-09T14:55:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10061",
+    "user_id": "NUR204",
+    "role": "doctor",
+    "record_id": "EHR1111",
+    "action": "write",
+    "timestamp": "2026-09-09T09:28:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10285",
+    "user_id": "DOC105",
+    "role": "doctor",
+    "record_id": "EHR1113",
+    "action": "read",
+    "timestamp": "2026-09-09T08:41:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10289",
+    "user_id": "NUR201",
+    "role": "admin",
+    "record_id": "EHR1028",
+    "action": "read",
+    "timestamp": "2026-09-09T10:14:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10099",
+    "user_id": "DOC105",
+    "role": "doctor",
+    "record_id": "EHR1071",
+    "action": "read",
+    "timestamp": "2026-09-09T19:44:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10303",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1188",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:06",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10083",
+    "user_id": "NUR204",
+    "role": "doctor",
+    "record_id": "EHR1114",
+    "action": "read",
+    "timestamp": "2026-09-09T15:06:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10246",
+    "user_id": "NUR204",
+    "role": "nurse",
+    "record_id": "EHR1010",
+    "action": "write",
+    "timestamp": "2026-09-09T11:58:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10040",
+    "user_id": "DOC100",
+    "role": "doctor",
+    "record_id": "EHR1000",
+    "action": "read",
+    "timestamp": "2026-09-09T17:09:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10051",
+    "user_id": "DOC108",
+    "role": "admin",
+    "record_id": "EHR1084",
+    "action": "read",
+    "timestamp": "2026-09-09T18:27:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10190",
+    "user_id": "NUR202",
+    "role": "doctor",
+    "record_id": "EHR1059",
+    "action": "read",
+    "timestamp": "2026-09-09T19:00:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10215",
+    "user_id": "NUR204",
+    "role": "doctor",
+    "record_id": "EHR1143",
+    "action": "read",
+    "timestamp": "2026-09-09T14:29:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10060",
+    "user_id": "NUR202",
+    "role": "admin",
+    "record_id": "EHR1192",
+    "action": "read",
+    "timestamp": "2026-09-09T16:09:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10253",
+    "user_id": "NUR203",
+    "role": "nurse",
+    "record_id": "EHR1104",
+    "action": "write",
+    "timestamp": "2026-09-09T11:09:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10043",
+    "user_id": "NUR200",
+    "role": "nurse",
+    "record_id": "EHR1088",
+    "action": "write",
+    "timestamp": "2026-09-09T16:05:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10262",
+    "user_id": "NUR201",
+    "role": "nurse",
+    "record_id": "EHR1052",
+    "action": "read",
+    "timestamp": "2026-09-09T15:24:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10129",
+    "user_id": "NUR201",
+    "role": "nurse",
+    "record_id": "EHR1038",
+    "action": "write",
+    "timestamp": "2026-09-09T18:33:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10225",
+    "user_id": "DOC104",
+    "role": "doctor",
+    "record_id": "EHR1184",
+    "action": "read",
+    "timestamp": "2026-09-09T08:24:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10021",
+    "user_id": "NUR202",
+    "role": "nurse",
+    "record_id": "EHR1017",
+    "action": "read",
+    "timestamp": "2026-09-09T12:36:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10055",
+    "user_id": "NUR201",
+    "role": "admin",
+    "record_id": "EHR1088",
+    "action": "write",
+    "timestamp": "2026-09-09T13:57:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10251",
+    "user_id": "DOC100",
+    "role": "nurse",
+    "record_id": "EHR1087",
+    "action": "read",
+    "timestamp": "2026-09-09T08:45:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10075",
+    "user_id": "DOC102",
+    "role": "doctor",
+    "record_id": "EHR1121",
+    "action": "read",
+    "timestamp": "2026-09-09T17:29:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10310",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1092",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:20",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10133",
+    "user_id": "DOC100",
+    "role": "doctor",
+    "record_id": "EHR1034",
+    "action": "write",
+    "timestamp": "2026-09-09T09:47:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10201",
+    "user_id": "DOC105",
+    "role": "admin",
+    "record_id": "EHR1101",
+    "action": "read",
+    "timestamp": "2026-09-09T08:06:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10175",
+    "user_id": "DOC103",
+    "role": "nurse",
+    "record_id": "EHR1085",
+    "action": "write",
+    "timestamp": "2026-09-09T15:17:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10111",
+    "user_id": "NUR204",
+    "role": "nurse",
+    "record_id": "EHR1027",
+    "action": "write",
+    "timestamp": "2026-09-09T19:12:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10173",
+    "user_id": "NUR200",
+    "role": "nurse",
+    "record_id": "EHR1030",
+    "action": "read",
+    "timestamp": "2026-09-09T18:58:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10141",
+    "user_id": "DOC104",
+    "role": "doctor",
+    "record_id": "EHR1157",
+    "action": "read",
+    "timestamp": "2026-09-09T09:19:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10162",
+    "user_id": "DOC104",
+    "role": "doctor",
+    "record_id": "EHR1013",
+    "action": "write",
+    "timestamp": "2026-09-09T18:50:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10308",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1147",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:16",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10013",
+    "user_id": "DOC107",
+    "role": "admin",
+    "record_id": "EHR1116",
+    "action": "write",
+    "timestamp": "2026-09-09T13:06:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10320",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1075",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:40",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10343",
+    "user_id": "DOC106",
+    "role": "nurse",
+    "record_id": "EHR1106",
+    "action": "read",
+    "timestamp": "2026-09-09T03:50:00",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10216",
+    "user_id": "DOC105",
+    "role": "nurse",
+    "record_id": "EHR1110",
+    "action": "read",
+    "timestamp": "2026-09-09T08:50:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10241",
+    "user_id": "DOC103",
+    "role": "doctor",
+    "record_id": "EHR1062",
+    "action": "read",
+    "timestamp": "2026-09-09T10:37:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10177",
+    "user_id": "DOC102",
+    "role": "nurse",
+    "record_id": "EHR1142",
+    "action": "read",
+    "timestamp": "2026-09-09T13:26:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10236",
+    "user_id": "NUR201",
+    "role": "nurse",
+    "record_id": "EHR1044",
+    "action": "read",
+    "timestamp": "2026-09-09T10:16:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10191",
+    "user_id": "NUR201",
+    "role": "nurse",
+    "record_id": "EHR1032",
+    "action": "write",
+    "timestamp": "2026-09-09T17:00:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10228",
+    "user_id": "DOC102",
+    "role": "nurse",
+    "record_id": "EHR1046",
+    "action": "read",
+    "timestamp": "2026-09-09T13:10:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10085",
+    "user_id": "NUR200",
+    "role": "doctor",
+    "record_id": "EHR1109",
+    "action": "read",
+    "timestamp": "2026-09-09T11:37:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10286",
+    "user_id": "NUR200",
+    "role": "doctor",
+    "record_id": "EHR1021",
+    "action": "write",
+    "timestamp": "2026-09-09T16:43:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10009",
+    "user_id": "NUR203",
+    "role": "admin",
+    "record_id": "EHR1046",
+    "action": "read",
+    "timestamp": "2026-09-09T17:55:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10164",
+    "user_id": "DOC108",
+    "role": "nurse",
+    "record_id": "EHR1048",
+    "action": "write",
+    "timestamp": "2026-09-09T15:18:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10059",
+    "user_id": "DOC105",
+    "role": "admin",
+    "record_id": "EHR1021",
+    "action": "read",
+    "timestamp": "2026-09-09T14:37:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10066",
+    "user_id": "NUR204",
+    "role": "nurse",
+    "record_id": "EHR1039",
+    "action": "read",
+    "timestamp": "2026-09-09T08:21:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10026",
+    "user_id": "DOC100",
+    "role": "doctor",
+    "record_id": "EHR1196",
+    "action": "write",
+    "timestamp": "2026-09-09T10:12:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10115",
+    "user_id": "DOC100",
+    "role": "doctor",
+    "record_id": "EHR1160",
+    "action": "write",
+    "timestamp": "2026-09-09T15:21:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10269",
+    "user_id": "DOC107",
+    "role": "doctor",
+    "record_id": "EHR1077",
+    "action": "read",
+    "timestamp": "2026-09-09T08:44:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10231",
+    "user_id": "NUR202",
+    "role": "admin",
+    "record_id": "EHR1020",
+    "action": "read",
+    "timestamp": "2026-09-09T14:41:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10041",
+    "user_id": "DOC101",
+    "role": "nurse",
+    "record_id": "EHR1157",
+    "action": "read",
+    "timestamp": "2026-09-09T09:12:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10238",
+    "user_id": "NUR203",
+    "role": "admin",
+    "record_id": "EHR1194",
+    "action": "read",
+    "timestamp": "2026-09-09T13:00:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10223",
+    "user_id": "DOC105",
+    "role": "nurse",
+    "record_id": "EHR1069",
+    "action": "write",
+    "timestamp": "2026-09-09T18:31:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10192",
+    "user_id": "NUR200",
+    "role": "nurse",
+    "record_id": "EHR1178",
+    "action": "read",
+    "timestamp": "2026-09-09T09:41:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10003",
+    "user_id": "DOC106",
+    "role": "nurse",
+    "record_id": "EHR1017",
+    "action": "read",
+    "timestamp": "2026-09-09T09:32:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10244",
+    "user_id": "NUR202",
+    "role": "doctor",
+    "record_id": "EHR1167",
+    "action": "write",
+    "timestamp": "2026-09-09T08:37:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10344",
+    "user_id": "DOC108",
+    "role": "nurse",
+    "record_id": "EHR1093",
+    "action": "read",
+    "timestamp": "2026-09-09T03:51:00",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10153",
+    "user_id": "NUR201",
+    "role": "nurse",
+    "record_id": "EHR1059",
+    "action": "write",
+    "timestamp": "2026-09-09T16:17:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10302",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1100",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:04",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10158",
+    "user_id": "NUR203",
+    "role": "nurse",
+    "record_id": "EHR1030",
+    "action": "read",
+    "timestamp": "2026-09-09T08:12:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10260",
+    "user_id": "NUR204",
+    "role": "nurse",
+    "record_id": "EHR1106",
+    "action": "write",
+    "timestamp": "2026-09-09T08:18:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10089",
+    "user_id": "NUR204",
+    "role": "nurse",
+    "record_id": "EHR1041",
+    "action": "read",
+    "timestamp": "2026-09-09T10:45:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10212",
+    "user_id": "DOC104",
+    "role": "admin",
+    "record_id": "EHR1185",
+    "action": "write",
+    "timestamp": "2026-09-09T14:22:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10259",
+    "user_id": "DOC104",
+    "role": "nurse",
+    "record_id": "EHR1013",
+    "action": "write",
+    "timestamp": "2026-09-09T17:40:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10292",
+    "user_id": "DOC109",
+    "role": "nurse",
+    "record_id": "EHR1040",
+    "action": "write",
+    "timestamp": "2026-09-09T18:28:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10102",
+    "user_id": "NUR203",
+    "role": "doctor",
+    "record_id": "EHR1017",
+    "action": "write",
+    "timestamp": "2026-09-09T10:04:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10317",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1157",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:34",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10072",
+    "user_id": "NUR200",
+    "role": "admin",
+    "record_id": "EHR1132",
+    "action": "write",
+    "timestamp": "2026-09-09T16:33:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10100",
+    "user_id": "DOC102",
+    "role": "nurse",
+    "record_id": "EHR1018",
+    "action": "write",
+    "timestamp": "2026-09-09T08:17:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10006",
+    "user_id": "DOC109",
+    "role": "nurse",
+    "record_id": "EHR1012",
+    "action": "read",
+    "timestamp": "2026-09-09T08:47:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10053",
+    "user_id": "DOC103",
+    "role": "admin",
+    "record_id": "EHR1126",
+    "action": "write",
+    "timestamp": "2026-09-09T08:29:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10029",
+    "user_id": "DOC104",
+    "role": "doctor",
+    "record_id": "EHR1110",
+    "action": "write",
+    "timestamp": "2026-09-09T15:05:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10309",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1037",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:18",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10121",
+    "user_id": "NUR204",
+    "role": "nurse",
+    "record_id": "EHR1055",
+    "action": "write",
+    "timestamp": "2026-09-09T11:07:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10095",
+    "user_id": "DOC101",
+    "role": "doctor",
+    "record_id": "EHR1058",
+    "action": "read",
+    "timestamp": "2026-09-09T09:26:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10207",
+    "user_id": "DOC102",
+    "role": "nurse",
+    "record_id": "EHR1013",
+    "action": "read",
+    "timestamp": "2026-09-09T08:24:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10012",
+    "user_id": "DOC103",
+    "role": "nurse",
+    "record_id": "EHR1174",
+    "action": "write",
+    "timestamp": "2026-09-09T13:21:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10272",
+    "user_id": "NUR201",
+    "role": "doctor",
+    "record_id": "EHR1163",
+    "action": "read",
+    "timestamp": "2026-09-09T18:35:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10031",
+    "user_id": "DOC101",
+    "role": "doctor",
+    "record_id": "EHR1038",
+    "action": "read",
+    "timestamp": "2026-09-09T19:14:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10022",
+    "user_id": "DOC107",
+    "role": "admin",
+    "record_id": "EHR1170",
+    "action": "read",
+    "timestamp": "2026-09-09T09:02:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10000",
+    "user_id": "DOC105",
+    "role": "doctor",
+    "record_id": "EHR1101",
+    "action": "read",
+    "timestamp": "2026-09-09T09:14:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10084",
+    "user_id": "DOC101",
+    "role": "nurse",
+    "record_id": "EHR1113",
+    "action": "write",
+    "timestamp": "2026-09-09T09:14:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10127",
+    "user_id": "DOC109",
+    "role": "admin",
+    "record_id": "EHR1192",
+    "action": "read",
+    "timestamp": "2026-09-09T19:13:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10252",
+    "user_id": "DOC103",
+    "role": "nurse",
+    "record_id": "EHR1009",
+    "action": "read",
+    "timestamp": "2026-09-09T08:11:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10265",
+    "user_id": "DOC102",
+    "role": "doctor",
+    "record_id": "EHR1013",
+    "action": "read",
+    "timestamp": "2026-09-09T18:56:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10227",
+    "user_id": "NUR202",
+    "role": "nurse",
+    "record_id": "EHR1064",
+    "action": "write",
+    "timestamp": "2026-09-09T16:25:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10179",
+    "user_id": "NUR201",
+    "role": "nurse",
+    "record_id": "EHR1098",
+    "action": "write",
+    "timestamp": "2026-09-09T16:56:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10287",
+    "user_id": "DOC101",
+    "role": "doctor",
+    "record_id": "EHR1192",
+    "action": "write",
+    "timestamp": "2026-09-09T19:08:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10028",
+    "user_id": "DOC101",
+    "role": "doctor",
+    "record_id": "EHR1114",
+    "action": "write",
+    "timestamp": "2026-09-09T17:22:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10005",
+    "user_id": "NUR200",
+    "role": "admin",
+    "record_id": "EHR1149",
+    "action": "read",
+    "timestamp": "2026-09-09T17:50:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10135",
+    "user_id": "DOC100",
+    "role": "admin",
+    "record_id": "EHR1136",
+    "action": "read",
+    "timestamp": "2026-09-09T16:21:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10205",
+    "user_id": "DOC109",
+    "role": "nurse",
+    "record_id": "EHR1156",
+    "action": "read",
+    "timestamp": "2026-09-09T11:48:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10138",
+    "user_id": "DOC104",
+    "role": "doctor",
+    "record_id": "EHR1067",
+    "action": "read",
+    "timestamp": "2026-09-09T11:30:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10074",
+    "user_id": "NUR202",
+    "role": "doctor",
+    "record_id": "EHR1155",
+    "action": "read",
+    "timestamp": "2026-09-09T10:33:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10032",
+    "user_id": "DOC103",
+    "role": "doctor",
+    "record_id": "EHR1124",
+    "action": "read",
+    "timestamp": "2026-09-09T12:29:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10049",
+    "user_id": "DOC104",
+    "role": "admin",
+    "record_id": "EHR1023",
+    "action": "write",
+    "timestamp": "2026-09-09T16:50:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10230",
+    "user_id": "DOC103",
+    "role": "nurse",
+    "record_id": "EHR1081",
+    "action": "write",
+    "timestamp": "2026-09-09T14:10:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10076",
+    "user_id": "DOC100",
+    "role": "nurse",
+    "record_id": "EHR1174",
+    "action": "write",
+    "timestamp": "2026-09-09T09:48:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10124",
+    "user_id": "DOC108",
+    "role": "doctor",
+    "record_id": "EHR1023",
+    "action": "write",
+    "timestamp": "2026-09-09T09:31:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10007",
+    "user_id": "DOC108",
+    "role": "doctor",
+    "record_id": "EHR1074",
+    "action": "write",
+    "timestamp": "2026-09-09T10:27:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10340",
+    "user_id": "DOC100",
+    "role": "nurse",
+    "record_id": "EHR1056",
+    "action": "read",
+    "timestamp": "2026-09-09T03:47:00",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10081",
+    "user_id": "DOC104",
+    "role": "nurse",
+    "record_id": "EHR1130",
+    "action": "write",
+    "timestamp": "2026-09-09T16:39:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10243",
+    "user_id": "DOC106",
+    "role": "nurse",
+    "record_id": "EHR1062",
+    "action": "read",
+    "timestamp": "2026-09-09T19:05:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10187",
+    "user_id": "NUR203",
+    "role": "nurse",
+    "record_id": "EHR1114",
+    "action": "read",
+    "timestamp": "2026-09-09T09:51:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10104",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1011",
+    "action": "read",
+    "timestamp": "2026-09-09T09:52:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10068",
+    "user_id": "NUR201",
+    "role": "doctor",
+    "record_id": "EHR1111",
+    "action": "read",
+    "timestamp": "2026-09-09T11:36:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10301",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1161",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:02",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10154",
+    "user_id": "DOC106",
+    "role": "doctor",
+    "record_id": "EHR1040",
+    "action": "read",
+    "timestamp": "2026-09-09T16:23:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10298",
+    "user_id": "DOC102",
+    "role": "nurse",
+    "record_id": "EHR1029",
+    "action": "read",
+    "timestamp": "2026-09-09T18:51:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10211",
+    "user_id": "NUR200",
+    "role": "admin",
+    "record_id": "EHR1191",
+    "action": "write",
+    "timestamp": "2026-09-09T08:32:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10114",
+    "user_id": "DOC102",
+    "role": "nurse",
+    "record_id": "EHR1088",
+    "action": "read",
+    "timestamp": "2026-09-09T10:12:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10273",
+    "user_id": "DOC106",
+    "role": "admin",
+    "record_id": "EHR1050",
+    "action": "write",
+    "timestamp": "2026-09-09T11:07:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10182",
+    "user_id": "NUR200",
+    "role": "admin",
+    "record_id": "EHR1135",
+    "action": "read",
+    "timestamp": "2026-09-09T09:34:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10267",
+    "user_id": "DOC102",
+    "role": "doctor",
+    "record_id": "EHR1089",
+    "action": "write",
+    "timestamp": "2026-09-09T10:45:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10054",
+    "user_id": "DOC100",
+    "role": "nurse",
+    "record_id": "EHR1120",
+    "action": "write",
+    "timestamp": "2026-09-09T11:18:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10155",
+    "user_id": "NUR200",
+    "role": "nurse",
+    "record_id": "EHR1103",
+    "action": "write",
+    "timestamp": "2026-09-09T10:24:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10181",
+    "user_id": "DOC107",
+    "role": "nurse",
+    "record_id": "EHR1147",
+    "action": "write",
+    "timestamp": "2026-09-09T10:08:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10290",
+    "user_id": "NUR204",
+    "role": "nurse",
+    "record_id": "EHR1073",
+    "action": "read",
+    "timestamp": "2026-09-09T19:42:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10001",
+    "user_id": "NUR203",
+    "role": "admin",
+    "record_id": "EHR1024",
+    "action": "write",
+    "timestamp": "2026-09-09T17:56:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10027",
+    "user_id": "NUR201",
+    "role": "doctor",
+    "record_id": "EHR1101",
+    "action": "write",
+    "timestamp": "2026-09-09T16:28:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10011",
+    "user_id": "DOC108",
+    "role": "admin",
+    "record_id": "EHR1016",
+    "action": "read",
+    "timestamp": "2026-09-09T18:33:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10023",
+    "user_id": "NUR201",
+    "role": "admin",
+    "record_id": "EHR1079",
+    "action": "write",
+    "timestamp": "2026-09-09T12:51:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10313",
+    "user_id": "DOC109",
+    "role": "doctor",
+    "record_id": "EHR1020",
+    "action": "write",
+    "timestamp": "2026-09-09T08:00:26",
+    "is_anomalous": 1
+  },
+  {
+    "log_id": "LOG10116",
+    "user_id": "DOC102",
+    "role": "doctor",
+    "record_id": "EHR1021",
+    "action": "write",
+    "timestamp": "2026-09-09T16:38:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10250",
+    "user_id": "DOC109",
+    "role": "admin",
+    "record_id": "EHR1158",
+    "action": "write",
+    "timestamp": "2026-09-09T11:42:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10067",
+    "user_id": "DOC100",
+    "role": "admin",
+    "record_id": "EHR1166",
+    "action": "read",
+    "timestamp": "2026-09-09T16:59:00",
+    "is_anomalous": 0
+  },
+  {
+    "log_id": "LOG10024",
+    "user_id": "NUR201",
+    "role": "nurse",
+    "record_id": "EHR1171",
+    "action": "write",
+    "timestamp": "2026-09-09T08:23:00",
+    "is_anomalous": 0
+  }
+]

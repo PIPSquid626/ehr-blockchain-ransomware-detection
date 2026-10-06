@@ -1,0 +1,39 @@
+{
+  "throughput": [
+    {
+      "load": 10,
+      "total_time_seconds": "0.071",
+      "throughput_tps": "140.85",
+      "avg_latency_ms": "34.90",
+      "scalability_percent": "5000.00"
+    },
+    {
+      "load": 50,
+      "total_time_seconds": "0.092",
+      "throughput_tps": "543.48",
+      "avg_latency_ms": "54.90",
+      "scalability_percent": "1000.00"
+    },
+    {
+      "load": 100,
+      "total_time_seconds": "0.100",
+      "throughput_tps": "1000.00",
+      "avg_latency_ms": "61.07",
+      "scalability_percent": "500.00"
+    },
+    {
+      "load": 500,
+      "total_time_seconds": "0.429",
+      "throughput_tps": "1165.50",
+      "avg_latency_ms": "242.97",
+      "scalability_percent": "100.00"
+    }
+  ],
+  "latency": {
+    "detected_at_action": 1,
+    "total_attack_time_ms": 353,
+    "mttd_ms": "23.53",
+    "alert_latency_ms": 3,
+    "mttr_ms": 8
+  }
+}

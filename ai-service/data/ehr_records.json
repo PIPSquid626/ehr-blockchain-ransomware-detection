@@ -1,0 +1,2665 @@
+[
+  {
+    "record_id": "EHR1000",
+    "patient_name": "Musa Yakubu",
+    "date_of_birth": "1972-07-08",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Artemether",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101",
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.381590",
+    "last_modified": "2026-09-09T15:27:26.381601"
+  },
+  {
+    "record_id": "EHR1001",
+    "patient_name": "Ade Okafor",
+    "date_of_birth": "1968-05-28",
+    "diagnosis": "Hypertension",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC108",
+    "consented_doctors": [
+      "DOC108",
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.381626",
+    "last_modified": "2026-09-09T15:27:26.381629"
+  },
+  {
+    "record_id": "EHR1002",
+    "patient_name": "Yusuf Yakubu",
+    "date_of_birth": "1997-08-20",
+    "diagnosis": "Hypertension",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC108",
+    "consented_doctors": [
+      "DOC108"
+    ],
+    "created_at": "2026-09-09T15:27:26.381646",
+    "last_modified": "2026-09-09T15:27:26.381648"
+  },
+  {
+    "record_id": "EHR1003",
+    "patient_name": "Ngozi Ibrahim",
+    "date_of_birth": "1990-07-11",
+    "diagnosis": "Type 2 Diabetes",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109",
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.381664",
+    "last_modified": "2026-09-09T15:27:26.381666"
+  },
+  {
+    "record_id": "EHR1004",
+    "patient_name": "Tunde Bello",
+    "date_of_birth": "1968-04-27",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Artemether",
+    "attending_doctor": "DOC103",
+    "consented_doctors": [
+      "DOC103"
+    ],
+    "created_at": "2026-09-09T15:27:26.381681",
+    "last_modified": "2026-09-09T15:27:26.381683"
+  },
+  {
+    "record_id": "EHR1005",
+    "patient_name": "Blessing Adeyemi",
+    "date_of_birth": "1963-11-24",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.381697",
+    "last_modified": "2026-09-09T15:27:26.381699"
+  },
+  {
+    "record_id": "EHR1006",
+    "patient_name": "Chidi Mohammed",
+    "date_of_birth": "1986-04-20",
+    "diagnosis": "Migraine",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC108",
+    "consented_doctors": [
+      "DOC108",
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.381712",
+    "last_modified": "2026-09-09T15:27:26.381715"
+  },
+  {
+    "record_id": "EHR1007",
+    "patient_name": "Tunde Okon",
+    "date_of_birth": "1977-04-01",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Artemether",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.381737",
+    "last_modified": "2026-09-09T15:27:26.381739"
+  },
+  {
+    "record_id": "EHR1008",
+    "patient_name": "Amaka Bello",
+    "date_of_birth": "1980-11-19",
+    "diagnosis": "Migraine",
+    "medication": "Artemether",
+    "attending_doctor": "DOC100",
+    "consented_doctors": [
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.381753",
+    "last_modified": "2026-09-09T15:27:26.381755"
+  },
+  {
+    "record_id": "EHR1009",
+    "patient_name": "Ngozi Nwosu",
+    "date_of_birth": "1991-11-15",
+    "diagnosis": "Hypertension",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106",
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.381768",
+    "last_modified": "2026-09-09T15:27:26.381770"
+  },
+  {
+    "record_id": "EHR1010",
+    "patient_name": "Chidi Okon",
+    "date_of_birth": "1975-05-09",
+    "diagnosis": "Asthma",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.381787",
+    "last_modified": "2026-09-09T15:27:26.381789"
+  },
+  {
+    "record_id": "EHR1011",
+    "patient_name": "Amaka Mohammed",
+    "date_of_birth": "1979-09-14",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Metformin",
+    "attending_doctor": "DOC103",
+    "consented_doctors": [
+      "DOC103",
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.381802",
+    "last_modified": "2026-09-09T15:27:26.381804"
+  },
+  {
+    "record_id": "EHR1012",
+    "patient_name": "Tunde Ibrahim",
+    "date_of_birth": "1984-01-08",
+    "diagnosis": "Malaria",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC100",
+    "consented_doctors": [
+      "DOC100",
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.381817",
+    "last_modified": "2026-09-09T15:27:26.381819"
+  },
+  {
+    "record_id": "EHR1013",
+    "patient_name": "Tunde Yakubu",
+    "date_of_birth": "2004-10-14",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.381832",
+    "last_modified": "2026-09-09T15:27:26.381834"
+  },
+  {
+    "record_id": "EHR1014",
+    "patient_name": "Musa Mohammed",
+    "date_of_birth": "1983-07-28",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107",
+      "DOC102"
+    ],
+    "created_at": "2026-09-09T15:27:26.381852",
+    "last_modified": "2026-09-09T15:27:26.381854"
+  },
+  {
+    "record_id": "EHR1015",
+    "patient_name": "Fatima Nwosu",
+    "date_of_birth": "1979-09-04",
+    "diagnosis": "Hypertension",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.381868",
+    "last_modified": "2026-09-09T15:27:26.381869"
+  },
+  {
+    "record_id": "EHR1016",
+    "patient_name": "Chidi Eze",
+    "date_of_birth": "1974-05-09",
+    "diagnosis": "Migraine",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107",
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.381884",
+    "last_modified": "2026-09-09T15:27:26.381886"
+  },
+  {
+    "record_id": "EHR1017",
+    "patient_name": "Fatima Ibrahim",
+    "date_of_birth": "2001-12-28",
+    "diagnosis": "Asthma",
+    "medication": "Metformin",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.381900",
+    "last_modified": "2026-09-09T15:27:26.381902"
+  },
+  {
+    "record_id": "EHR1018",
+    "patient_name": "Ade Bello",
+    "date_of_birth": "1983-12-09",
+    "diagnosis": "Migraine",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC108",
+    "consented_doctors": [
+      "DOC108"
+    ],
+    "created_at": "2026-09-09T15:27:26.381916",
+    "last_modified": "2026-09-09T15:27:26.381918"
+  },
+  {
+    "record_id": "EHR1019",
+    "patient_name": "Ngozi Uche",
+    "date_of_birth": "1960-04-16",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105",
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.381936",
+    "last_modified": "2026-09-09T15:27:26.381938"
+  },
+  {
+    "record_id": "EHR1020",
+    "patient_name": "Ngozi Mohammed",
+    "date_of_birth": "1969-07-18",
+    "diagnosis": "Migraine",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.381951",
+    "last_modified": "2026-09-09T15:27:26.381953"
+  },
+  {
+    "record_id": "EHR1021",
+    "patient_name": "Yusuf Okon",
+    "date_of_birth": "1977-11-04",
+    "diagnosis": "Hypertension",
+    "medication": "Metformin",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.381965",
+    "last_modified": "2026-09-09T15:27:26.381967"
+  },
+  {
+    "record_id": "EHR1022",
+    "patient_name": "Yusuf Okafor",
+    "date_of_birth": "1989-01-29",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Artemether",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102"
+    ],
+    "created_at": "2026-09-09T15:27:26.381980",
+    "last_modified": "2026-09-09T15:27:26.381982"
+  },
+  {
+    "record_id": "EHR1023",
+    "patient_name": "Amaka Yakubu",
+    "date_of_birth": "1965-03-13",
+    "diagnosis": "Hypertension",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.381995",
+    "last_modified": "2026-09-09T15:27:26.381997"
+  },
+  {
+    "record_id": "EHR1024",
+    "patient_name": "Chidi Mohammed",
+    "date_of_birth": "1971-04-13",
+    "diagnosis": "Hypertension",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101",
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.382011",
+    "last_modified": "2026-09-09T15:27:26.382013"
+  },
+  {
+    "record_id": "EHR1025",
+    "patient_name": "Ngozi Adeyemi",
+    "date_of_birth": "1997-12-17",
+    "diagnosis": "Hypertension",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.382027",
+    "last_modified": "2026-09-09T15:27:26.382029"
+  },
+  {
+    "record_id": "EHR1026",
+    "patient_name": "Fatima Nwosu",
+    "date_of_birth": "1999-04-21",
+    "diagnosis": "Asthma",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC103",
+    "consented_doctors": [
+      "DOC103"
+    ],
+    "created_at": "2026-09-09T15:27:26.382043",
+    "last_modified": "2026-09-09T15:27:26.382045"
+  },
+  {
+    "record_id": "EHR1027",
+    "patient_name": "Tunde Okafor",
+    "date_of_birth": "1980-08-23",
+    "diagnosis": "Asthma",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101",
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.382058",
+    "last_modified": "2026-09-09T15:27:26.382060"
+  },
+  {
+    "record_id": "EHR1028",
+    "patient_name": "Musa Bello",
+    "date_of_birth": "1962-10-26",
+    "diagnosis": "Migraine",
+    "medication": "Metformin",
+    "attending_doctor": "DOC100",
+    "consented_doctors": [
+      "DOC100",
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.382072",
+    "last_modified": "2026-09-09T15:27:26.382074"
+  },
+  {
+    "record_id": "EHR1029",
+    "patient_name": "Amaka Uche",
+    "date_of_birth": "1979-03-22",
+    "diagnosis": "Asthma",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.382086",
+    "last_modified": "2026-09-09T15:27:26.382088"
+  },
+  {
+    "record_id": "EHR1030",
+    "patient_name": "Musa Uche",
+    "date_of_birth": "1996-07-08",
+    "diagnosis": "Hypertension",
+    "medication": "Artemether",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.382124",
+    "last_modified": "2026-09-09T15:27:26.382126"
+  },
+  {
+    "record_id": "EHR1031",
+    "patient_name": "Tunde Ibrahim",
+    "date_of_birth": "1996-11-17",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.382146",
+    "last_modified": "2026-09-09T15:27:26.382148"
+  },
+  {
+    "record_id": "EHR1032",
+    "patient_name": "Chidi Okafor",
+    "date_of_birth": "1996-02-14",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Metformin",
+    "attending_doctor": "DOC100",
+    "consented_doctors": [
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.382160",
+    "last_modified": "2026-09-09T15:27:26.382162"
+  },
+  {
+    "record_id": "EHR1033",
+    "patient_name": "Yusuf Uche",
+    "date_of_birth": "1972-07-29",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101",
+      "DOC103"
+    ],
+    "created_at": "2026-09-09T15:27:26.382180",
+    "last_modified": "2026-09-09T15:27:26.382182"
+  },
+  {
+    "record_id": "EHR1034",
+    "patient_name": "Chidi Uche",
+    "date_of_birth": "1968-10-13",
+    "diagnosis": "Malaria",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.382195",
+    "last_modified": "2026-09-09T15:27:26.382197"
+  },
+  {
+    "record_id": "EHR1035",
+    "patient_name": "Chidi Yakubu",
+    "date_of_birth": "1974-12-02",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC108",
+    "consented_doctors": [
+      "DOC108"
+    ],
+    "created_at": "2026-09-09T15:27:26.382208",
+    "last_modified": "2026-09-09T15:27:26.382210"
+  },
+  {
+    "record_id": "EHR1036",
+    "patient_name": "Ade Eze",
+    "date_of_birth": "1993-12-31",
+    "diagnosis": "Malaria",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107",
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.382228",
+    "last_modified": "2026-09-09T15:27:26.382230"
+  },
+  {
+    "record_id": "EHR1037",
+    "patient_name": "Emeka Adeyemi",
+    "date_of_birth": "1997-12-13",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.382242",
+    "last_modified": "2026-09-09T15:27:26.382244"
+  },
+  {
+    "record_id": "EHR1038",
+    "patient_name": "Emeka Eze",
+    "date_of_birth": "1977-01-13",
+    "diagnosis": "Type 2 Diabetes",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC108",
+    "consented_doctors": [
+      "DOC108"
+    ],
+    "created_at": "2026-09-09T15:27:26.382255",
+    "last_modified": "2026-09-09T15:27:26.382257"
+  },
+  {
+    "record_id": "EHR1039",
+    "patient_name": "Yusuf Okafor",
+    "date_of_birth": "1988-02-19",
+    "diagnosis": "Malaria",
+    "medication": "Artemether",
+    "attending_doctor": "DOC100",
+    "consented_doctors": [
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.382270",
+    "last_modified": "2026-09-09T15:27:26.382272"
+  },
+  {
+    "record_id": "EHR1040",
+    "patient_name": "Yusuf Eze",
+    "date_of_birth": "1965-02-06",
+    "diagnosis": "Asthma",
+    "medication": "Artemether",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.382285",
+    "last_modified": "2026-09-09T15:27:26.382287"
+  },
+  {
+    "record_id": "EHR1041",
+    "patient_name": "Musa Ibrahim",
+    "date_of_birth": "1970-10-03",
+    "diagnosis": "Asthma",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102",
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.382311",
+    "last_modified": "2026-09-09T15:27:26.382313"
+  },
+  {
+    "record_id": "EHR1042",
+    "patient_name": "Blessing Bello",
+    "date_of_birth": "1997-08-11",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.382325",
+    "last_modified": "2026-09-09T15:27:26.382327"
+  },
+  {
+    "record_id": "EHR1043",
+    "patient_name": "Amaka Yakubu",
+    "date_of_birth": "1988-03-09",
+    "diagnosis": "Hypertension",
+    "medication": "Metformin",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.382338",
+    "last_modified": "2026-09-09T15:27:26.382340"
+  },
+  {
+    "record_id": "EHR1044",
+    "patient_name": "Emeka Nwosu",
+    "date_of_birth": "1966-07-05",
+    "diagnosis": "Malaria",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106",
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.382353",
+    "last_modified": "2026-09-09T15:27:26.382354"
+  },
+  {
+    "record_id": "EHR1045",
+    "patient_name": "Chidi Bello",
+    "date_of_birth": "1979-02-14",
+    "diagnosis": "Asthma",
+    "medication": "Metformin",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.382367",
+    "last_modified": "2026-09-09T15:27:26.382368"
+  },
+  {
+    "record_id": "EHR1046",
+    "patient_name": "Chidi Yakubu",
+    "date_of_birth": "1993-02-24",
+    "diagnosis": "Type 2 Diabetes",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102"
+    ],
+    "created_at": "2026-09-09T15:27:26.382380",
+    "last_modified": "2026-09-09T15:27:26.382382"
+  },
+  {
+    "record_id": "EHR1047",
+    "patient_name": "Amaka Okon",
+    "date_of_birth": "1960-09-13",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.382395",
+    "last_modified": "2026-09-09T15:27:26.382397"
+  },
+  {
+    "record_id": "EHR1048",
+    "patient_name": "Ngozi Adeyemi",
+    "date_of_birth": "1970-05-10",
+    "diagnosis": "Malaria",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC108",
+    "consented_doctors": [
+      "DOC108",
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.382408",
+    "last_modified": "2026-09-09T15:27:26.382410"
+  },
+  {
+    "record_id": "EHR1049",
+    "patient_name": "Blessing Yakubu",
+    "date_of_birth": "1990-10-05",
+    "diagnosis": "Hypertension",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC108",
+    "consented_doctors": [
+      "DOC108",
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.382422",
+    "last_modified": "2026-09-09T15:27:26.382424"
+  },
+  {
+    "record_id": "EHR1050",
+    "patient_name": "Amaka Okafor",
+    "date_of_birth": "1968-04-12",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.382438",
+    "last_modified": "2026-09-09T15:27:26.382439"
+  },
+  {
+    "record_id": "EHR1051",
+    "patient_name": "Ngozi Adeyemi",
+    "date_of_birth": "1974-06-30",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104",
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.382451",
+    "last_modified": "2026-09-09T15:27:26.382453"
+  },
+  {
+    "record_id": "EHR1052",
+    "patient_name": "Yusuf Okafor",
+    "date_of_birth": "1970-01-13",
+    "diagnosis": "Malaria",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC108",
+    "consented_doctors": [
+      "DOC108"
+    ],
+    "created_at": "2026-09-09T15:27:26.382464",
+    "last_modified": "2026-09-09T15:27:26.382466"
+  },
+  {
+    "record_id": "EHR1053",
+    "patient_name": "Tunde Okon",
+    "date_of_birth": "1973-04-14",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102"
+    ],
+    "created_at": "2026-09-09T15:27:26.382483",
+    "last_modified": "2026-09-09T15:27:26.382485"
+  },
+  {
+    "record_id": "EHR1054",
+    "patient_name": "Ade Nwosu",
+    "date_of_birth": "1978-11-05",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC100",
+    "consented_doctors": [
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.382497",
+    "last_modified": "2026-09-09T15:27:26.382499"
+  },
+  {
+    "record_id": "EHR1055",
+    "patient_name": "Yusuf Ibrahim",
+    "date_of_birth": "1973-11-12",
+    "diagnosis": "Hypertension",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.382511",
+    "last_modified": "2026-09-09T15:27:26.382512"
+  },
+  {
+    "record_id": "EHR1056",
+    "patient_name": "Ngozi Ibrahim",
+    "date_of_birth": "1962-03-23",
+    "diagnosis": "Hypertension",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102"
+    ],
+    "created_at": "2026-09-09T15:27:26.382524",
+    "last_modified": "2026-09-09T15:27:26.382526"
+  },
+  {
+    "record_id": "EHR1057",
+    "patient_name": "Fatima Yakubu",
+    "date_of_birth": "1983-12-08",
+    "diagnosis": "Hypertension",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.382543",
+    "last_modified": "2026-09-09T15:27:26.382545"
+  },
+  {
+    "record_id": "EHR1058",
+    "patient_name": "Ade Uche",
+    "date_of_birth": "1979-12-15",
+    "diagnosis": "Hypertension",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.382556",
+    "last_modified": "2026-09-09T15:27:26.382558"
+  },
+  {
+    "record_id": "EHR1059",
+    "patient_name": "Musa Yakubu",
+    "date_of_birth": "1962-02-14",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.382570",
+    "last_modified": "2026-09-09T15:27:26.382571"
+  },
+  {
+    "record_id": "EHR1060",
+    "patient_name": "Chidi Adeyemi",
+    "date_of_birth": "1991-07-03",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.382583",
+    "last_modified": "2026-09-09T15:27:26.382585"
+  },
+  {
+    "record_id": "EHR1061",
+    "patient_name": "Yusuf Nwosu",
+    "date_of_birth": "1962-06-23",
+    "diagnosis": "Malaria",
+    "medication": "Metformin",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.382602",
+    "last_modified": "2026-09-09T15:27:26.382603"
+  },
+  {
+    "record_id": "EHR1062",
+    "patient_name": "Amaka Okafor",
+    "date_of_birth": "1969-09-22",
+    "diagnosis": "Asthma",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102"
+    ],
+    "created_at": "2026-09-09T15:27:26.382615",
+    "last_modified": "2026-09-09T15:27:26.382617"
+  },
+  {
+    "record_id": "EHR1063",
+    "patient_name": "Tunde Ibrahim",
+    "date_of_birth": "2005-11-18",
+    "diagnosis": "Malaria",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.382639",
+    "last_modified": "2026-09-09T15:27:26.382641"
+  },
+  {
+    "record_id": "EHR1064",
+    "patient_name": "Fatima Okafor",
+    "date_of_birth": "1977-09-04",
+    "diagnosis": "Type 2 Diabetes",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109",
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.382654",
+    "last_modified": "2026-09-09T15:27:26.382655"
+  },
+  {
+    "record_id": "EHR1065",
+    "patient_name": "Tunde Okon",
+    "date_of_birth": "1988-02-29",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.382668",
+    "last_modified": "2026-09-09T15:27:26.382670"
+  },
+  {
+    "record_id": "EHR1066",
+    "patient_name": "Amaka Mohammed",
+    "date_of_birth": "1987-09-30",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.382682",
+    "last_modified": "2026-09-09T15:27:26.382684"
+  },
+  {
+    "record_id": "EHR1067",
+    "patient_name": "Amaka Mohammed",
+    "date_of_birth": "1971-06-02",
+    "diagnosis": "Hypertension",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.382695",
+    "last_modified": "2026-09-09T15:27:26.382697"
+  },
+  {
+    "record_id": "EHR1068",
+    "patient_name": "Ngozi Okon",
+    "date_of_birth": "1986-12-31",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.382709",
+    "last_modified": "2026-09-09T15:27:26.382711"
+  },
+  {
+    "record_id": "EHR1069",
+    "patient_name": "Musa Ibrahim",
+    "date_of_birth": "1988-11-28",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC100",
+    "consented_doctors": [
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.382723",
+    "last_modified": "2026-09-09T15:27:26.382725"
+  },
+  {
+    "record_id": "EHR1070",
+    "patient_name": "Yusuf Uche",
+    "date_of_birth": "1975-03-23",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Artemether",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.382736",
+    "last_modified": "2026-09-09T15:27:26.382738"
+  },
+  {
+    "record_id": "EHR1071",
+    "patient_name": "Blessing Nwosu",
+    "date_of_birth": "1968-05-18",
+    "diagnosis": "Migraine",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.382750",
+    "last_modified": "2026-09-09T15:27:26.382751"
+  },
+  {
+    "record_id": "EHR1072",
+    "patient_name": "Musa Yakubu",
+    "date_of_birth": "1973-03-21",
+    "diagnosis": "Malaria",
+    "medication": "Artemether",
+    "attending_doctor": "DOC103",
+    "consented_doctors": [
+      "DOC103"
+    ],
+    "created_at": "2026-09-09T15:27:26.382766",
+    "last_modified": "2026-09-09T15:27:26.382768"
+  },
+  {
+    "record_id": "EHR1073",
+    "patient_name": "Blessing Bello",
+    "date_of_birth": "2000-11-09",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC103",
+    "consented_doctors": [
+      "DOC103"
+    ],
+    "created_at": "2026-09-09T15:27:26.382780",
+    "last_modified": "2026-09-09T15:27:26.382781"
+  },
+  {
+    "record_id": "EHR1074",
+    "patient_name": "Emeka Ibrahim",
+    "date_of_birth": "1981-11-20",
+    "diagnosis": "Hypertension",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109",
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.382797",
+    "last_modified": "2026-09-09T15:27:26.382799"
+  },
+  {
+    "record_id": "EHR1075",
+    "patient_name": "Chidi Ibrahim",
+    "date_of_birth": "1979-08-19",
+    "diagnosis": "Hypertension",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC100",
+    "consented_doctors": [
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.382811",
+    "last_modified": "2026-09-09T15:27:26.382813"
+  },
+  {
+    "record_id": "EHR1076",
+    "patient_name": "Yusuf Yakubu",
+    "date_of_birth": "1970-11-20",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC108",
+    "consented_doctors": [
+      "DOC108"
+    ],
+    "created_at": "2026-09-09T15:27:26.382824",
+    "last_modified": "2026-09-09T15:27:26.382826"
+  },
+  {
+    "record_id": "EHR1077",
+    "patient_name": "Yusuf Okon",
+    "date_of_birth": "1988-06-19",
+    "diagnosis": "Migraine",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.382839",
+    "last_modified": "2026-09-09T15:27:26.382841"
+  },
+  {
+    "record_id": "EHR1078",
+    "patient_name": "Yusuf Ibrahim",
+    "date_of_birth": "2000-01-02",
+    "diagnosis": "Hypertension",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.382853",
+    "last_modified": "2026-09-09T15:27:26.382855"
+  },
+  {
+    "record_id": "EHR1079",
+    "patient_name": "Musa Adeyemi",
+    "date_of_birth": "2003-06-23",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.382867",
+    "last_modified": "2026-09-09T15:27:26.382869"
+  },
+  {
+    "record_id": "EHR1080",
+    "patient_name": "Amaka Yakubu",
+    "date_of_birth": "1984-05-17",
+    "diagnosis": "Type 2 Diabetes",
+    "medication": "Metformin",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.382880",
+    "last_modified": "2026-09-09T15:27:26.382882"
+  },
+  {
+    "record_id": "EHR1081",
+    "patient_name": "Musa Ibrahim",
+    "date_of_birth": "1973-09-16",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC108",
+    "consented_doctors": [
+      "DOC108",
+      "DOC102"
+    ],
+    "created_at": "2026-09-09T15:27:26.382894",
+    "last_modified": "2026-09-09T15:27:26.382896"
+  },
+  {
+    "record_id": "EHR1082",
+    "patient_name": "Tunde Mohammed",
+    "date_of_birth": "2001-10-19",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Artemether",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.382908",
+    "last_modified": "2026-09-09T15:27:26.382910"
+  },
+  {
+    "record_id": "EHR1083",
+    "patient_name": "Fatima Okon",
+    "date_of_birth": "1961-10-02",
+    "diagnosis": "Migraine",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC103",
+    "consented_doctors": [
+      "DOC103"
+    ],
+    "created_at": "2026-09-09T15:27:26.382922",
+    "last_modified": "2026-09-09T15:27:26.382923"
+  },
+  {
+    "record_id": "EHR1084",
+    "patient_name": "Ade Nwosu",
+    "date_of_birth": "1986-10-15",
+    "diagnosis": "Migraine",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.382939",
+    "last_modified": "2026-09-09T15:27:26.382940"
+  },
+  {
+    "record_id": "EHR1085",
+    "patient_name": "Yusuf Okon",
+    "date_of_birth": "1979-10-14",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.382953",
+    "last_modified": "2026-09-09T15:27:26.382954"
+  },
+  {
+    "record_id": "EHR1086",
+    "patient_name": "Ade Ibrahim",
+    "date_of_birth": "1990-02-26",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.382966",
+    "last_modified": "2026-09-09T15:27:26.382971"
+  },
+  {
+    "record_id": "EHR1087",
+    "patient_name": "Emeka Eze",
+    "date_of_birth": "1962-06-02",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.382983",
+    "last_modified": "2026-09-09T15:27:26.382985"
+  },
+  {
+    "record_id": "EHR1088",
+    "patient_name": "Chidi Ibrahim",
+    "date_of_birth": "1972-03-04",
+    "diagnosis": "Migraine",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.382996",
+    "last_modified": "2026-09-09T15:27:26.382998"
+  },
+  {
+    "record_id": "EHR1089",
+    "patient_name": "Tunde Yakubu",
+    "date_of_birth": "2000-10-16",
+    "diagnosis": "Type 2 Diabetes",
+    "medication": "Metformin",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102",
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.383010",
+    "last_modified": "2026-09-09T15:27:26.383012"
+  },
+  {
+    "record_id": "EHR1090",
+    "patient_name": "Amaka Bello",
+    "date_of_birth": "2002-03-12",
+    "diagnosis": "Malaria",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106",
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.383024",
+    "last_modified": "2026-09-09T15:27:26.383026"
+  },
+  {
+    "record_id": "EHR1091",
+    "patient_name": "Musa Bello",
+    "date_of_birth": "1963-08-12",
+    "diagnosis": "Migraine",
+    "medication": "Artemether",
+    "attending_doctor": "DOC108",
+    "consented_doctors": [
+      "DOC108",
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.383038",
+    "last_modified": "2026-09-09T15:27:26.383040"
+  },
+  {
+    "record_id": "EHR1092",
+    "patient_name": "Blessing Eze",
+    "date_of_birth": "1981-05-26",
+    "diagnosis": "Hypertension",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC103",
+    "consented_doctors": [
+      "DOC103",
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.383055",
+    "last_modified": "2026-09-09T15:27:26.383057"
+  },
+  {
+    "record_id": "EHR1093",
+    "patient_name": "Musa Uche",
+    "date_of_birth": "1982-12-27",
+    "diagnosis": "Migraine",
+    "medication": "Metformin",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.383068",
+    "last_modified": "2026-09-09T15:27:26.383070"
+  },
+  {
+    "record_id": "EHR1094",
+    "patient_name": "Chidi Eze",
+    "date_of_birth": "1987-11-27",
+    "diagnosis": "Malaria",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102"
+    ],
+    "created_at": "2026-09-09T15:27:26.383086",
+    "last_modified": "2026-09-09T15:27:26.383088"
+  },
+  {
+    "record_id": "EHR1095",
+    "patient_name": "Blessing Ibrahim",
+    "date_of_birth": "1995-08-02",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC100",
+    "consented_doctors": [
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.389589",
+    "last_modified": "2026-09-09T15:27:26.389600"
+  },
+  {
+    "record_id": "EHR1096",
+    "patient_name": "Musa Bello",
+    "date_of_birth": "1987-01-21",
+    "diagnosis": "Migraine",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.389644",
+    "last_modified": "2026-09-09T15:27:26.389646"
+  },
+  {
+    "record_id": "EHR1097",
+    "patient_name": "Blessing Okafor",
+    "date_of_birth": "1991-02-24",
+    "diagnosis": "Asthma",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.389664",
+    "last_modified": "2026-09-09T15:27:26.389666"
+  },
+  {
+    "record_id": "EHR1098",
+    "patient_name": "Ade Ibrahim",
+    "date_of_birth": "2003-12-23",
+    "diagnosis": "Malaria",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105",
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.389682",
+    "last_modified": "2026-09-09T15:27:26.389684"
+  },
+  {
+    "record_id": "EHR1099",
+    "patient_name": "Emeka Eze",
+    "date_of_birth": "1999-01-26",
+    "diagnosis": "Hypertension",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.389697",
+    "last_modified": "2026-09-09T15:27:26.389699"
+  },
+  {
+    "record_id": "EHR1100",
+    "patient_name": "Amaka Okon",
+    "date_of_birth": "2003-05-18",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC108",
+    "consented_doctors": [
+      "DOC108"
+    ],
+    "created_at": "2026-09-09T15:27:26.389711",
+    "last_modified": "2026-09-09T15:27:26.389713"
+  },
+  {
+    "record_id": "EHR1101",
+    "patient_name": "Chidi Adeyemi",
+    "date_of_birth": "2000-06-10",
+    "diagnosis": "Hypertension",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109",
+      "DOC103"
+    ],
+    "created_at": "2026-09-09T15:27:26.389727",
+    "last_modified": "2026-09-09T15:27:26.389728"
+  },
+  {
+    "record_id": "EHR1102",
+    "patient_name": "Fatima Nwosu",
+    "date_of_birth": "1962-07-29",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.389741",
+    "last_modified": "2026-09-09T15:27:26.389743"
+  },
+  {
+    "record_id": "EHR1103",
+    "patient_name": "Tunde Adeyemi",
+    "date_of_birth": "1990-07-14",
+    "diagnosis": "Type 2 Diabetes",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105",
+      "DOC103"
+    ],
+    "created_at": "2026-09-09T15:27:26.389756",
+    "last_modified": "2026-09-09T15:27:26.389758"
+  },
+  {
+    "record_id": "EHR1104",
+    "patient_name": "Yusuf Yakubu",
+    "date_of_birth": "1967-09-06",
+    "diagnosis": "Hypertension",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.389769",
+    "last_modified": "2026-09-09T15:27:26.389771"
+  },
+  {
+    "record_id": "EHR1105",
+    "patient_name": "Musa Uche",
+    "date_of_birth": "2004-01-13",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.389799",
+    "last_modified": "2026-09-09T15:27:26.389801"
+  },
+  {
+    "record_id": "EHR1106",
+    "patient_name": "Fatima Yakubu",
+    "date_of_birth": "1987-06-21",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC100",
+    "consented_doctors": [
+      "DOC100",
+      "DOC103"
+    ],
+    "created_at": "2026-09-09T15:27:26.389814",
+    "last_modified": "2026-09-09T15:27:26.389816"
+  },
+  {
+    "record_id": "EHR1107",
+    "patient_name": "Yusuf Nwosu",
+    "date_of_birth": "1998-03-04",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.389827",
+    "last_modified": "2026-09-09T15:27:26.389829"
+  },
+  {
+    "record_id": "EHR1108",
+    "patient_name": "Emeka Adeyemi",
+    "date_of_birth": "1987-07-05",
+    "diagnosis": "Type 2 Diabetes",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.389841",
+    "last_modified": "2026-09-09T15:27:26.389842"
+  },
+  {
+    "record_id": "EHR1109",
+    "patient_name": "Tunde Bello",
+    "date_of_birth": "1976-08-10",
+    "diagnosis": "Hypertension",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.389856",
+    "last_modified": "2026-09-09T15:27:26.389858"
+  },
+  {
+    "record_id": "EHR1110",
+    "patient_name": "Yusuf Okon",
+    "date_of_birth": "1985-05-22",
+    "diagnosis": "Malaria",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107",
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.389871",
+    "last_modified": "2026-09-09T15:27:26.389872"
+  },
+  {
+    "record_id": "EHR1111",
+    "patient_name": "Ngozi Adeyemi",
+    "date_of_birth": "1961-04-08",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC103",
+    "consented_doctors": [
+      "DOC103",
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.389890",
+    "last_modified": "2026-09-09T15:27:26.389891"
+  },
+  {
+    "record_id": "EHR1112",
+    "patient_name": "Yusuf Adeyemi",
+    "date_of_birth": "1971-04-30",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102",
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.389907",
+    "last_modified": "2026-09-09T15:27:26.389909"
+  },
+  {
+    "record_id": "EHR1113",
+    "patient_name": "Blessing Adeyemi",
+    "date_of_birth": "2002-02-10",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107",
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.389921",
+    "last_modified": "2026-09-09T15:27:26.389923"
+  },
+  {
+    "record_id": "EHR1114",
+    "patient_name": "Amaka Uche",
+    "date_of_birth": "1970-03-27",
+    "diagnosis": "Migraine",
+    "medication": "Artemether",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105",
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.389936",
+    "last_modified": "2026-09-09T15:27:26.389937"
+  },
+  {
+    "record_id": "EHR1115",
+    "patient_name": "Blessing Okafor",
+    "date_of_birth": "1973-08-11",
+    "diagnosis": "Hypertension",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.389949",
+    "last_modified": "2026-09-09T15:27:26.389950"
+  },
+  {
+    "record_id": "EHR1116",
+    "patient_name": "Chidi Yakubu",
+    "date_of_birth": "1970-08-17",
+    "diagnosis": "Asthma",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.389962",
+    "last_modified": "2026-09-09T15:27:26.389964"
+  },
+  {
+    "record_id": "EHR1117",
+    "patient_name": "Blessing Yakubu",
+    "date_of_birth": "1994-02-15",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.389981",
+    "last_modified": "2026-09-09T15:27:26.389982"
+  },
+  {
+    "record_id": "EHR1118",
+    "patient_name": "Fatima Adeyemi",
+    "date_of_birth": "1965-05-27",
+    "diagnosis": "Asthma",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.389994",
+    "last_modified": "2026-09-09T15:27:26.389996"
+  },
+  {
+    "record_id": "EHR1119",
+    "patient_name": "Musa Yakubu",
+    "date_of_birth": "1983-09-28",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Artemether",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.390008",
+    "last_modified": "2026-09-09T15:27:26.390009"
+  },
+  {
+    "record_id": "EHR1120",
+    "patient_name": "Chidi Eze",
+    "date_of_birth": "1960-03-28",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102",
+      "DOC108"
+    ],
+    "created_at": "2026-09-09T15:27:26.390023",
+    "last_modified": "2026-09-09T15:27:26.390025"
+  },
+  {
+    "record_id": "EHR1121",
+    "patient_name": "Ade Yakubu",
+    "date_of_birth": "1985-11-05",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Metformin",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.390038",
+    "last_modified": "2026-09-09T15:27:26.390039"
+  },
+  {
+    "record_id": "EHR1122",
+    "patient_name": "Amaka Okon",
+    "date_of_birth": "1977-09-30",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Artemether",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107",
+      "DOC103"
+    ],
+    "created_at": "2026-09-09T15:27:26.390052",
+    "last_modified": "2026-09-09T15:27:26.390054"
+  },
+  {
+    "record_id": "EHR1123",
+    "patient_name": "Amaka Eze",
+    "date_of_birth": "1966-05-28",
+    "diagnosis": "Malaria",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC108",
+    "consented_doctors": [
+      "DOC108",
+      "DOC102"
+    ],
+    "created_at": "2026-09-09T15:27:26.390066",
+    "last_modified": "2026-09-09T15:27:26.390068"
+  },
+  {
+    "record_id": "EHR1124",
+    "patient_name": "Blessing Adeyemi",
+    "date_of_birth": "1999-05-26",
+    "diagnosis": "Malaria",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.390079",
+    "last_modified": "2026-09-09T15:27:26.390080"
+  },
+  {
+    "record_id": "EHR1125",
+    "patient_name": "Amaka Mohammed",
+    "date_of_birth": "2004-04-19",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Artemether",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.390093",
+    "last_modified": "2026-09-09T15:27:26.390095"
+  },
+  {
+    "record_id": "EHR1126",
+    "patient_name": "Tunde Okon",
+    "date_of_birth": "1982-06-18",
+    "diagnosis": "Malaria",
+    "medication": "Artemether",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109",
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.390126",
+    "last_modified": "2026-09-09T15:27:26.390128"
+  },
+  {
+    "record_id": "EHR1127",
+    "patient_name": "Blessing Okon",
+    "date_of_birth": "1961-11-10",
+    "diagnosis": "Migraine",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC103",
+    "consented_doctors": [
+      "DOC103"
+    ],
+    "created_at": "2026-09-09T15:27:26.390139",
+    "last_modified": "2026-09-09T15:27:26.390141"
+  },
+  {
+    "record_id": "EHR1128",
+    "patient_name": "Ngozi Uche",
+    "date_of_birth": "1999-09-03",
+    "diagnosis": "Type 2 Diabetes",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.390159",
+    "last_modified": "2026-09-09T15:27:26.390161"
+  },
+  {
+    "record_id": "EHR1129",
+    "patient_name": "Emeka Bello",
+    "date_of_birth": "2002-03-02",
+    "diagnosis": "Type 2 Diabetes",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.390173",
+    "last_modified": "2026-09-09T15:27:26.390175"
+  },
+  {
+    "record_id": "EHR1130",
+    "patient_name": "Chidi Eze",
+    "date_of_birth": "1989-08-03",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.390188",
+    "last_modified": "2026-09-09T15:27:26.390190"
+  },
+  {
+    "record_id": "EHR1131",
+    "patient_name": "Yusuf Okafor",
+    "date_of_birth": "2000-10-20",
+    "diagnosis": "Malaria",
+    "medication": "Metformin",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107",
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.390206",
+    "last_modified": "2026-09-09T15:27:26.390208"
+  },
+  {
+    "record_id": "EHR1132",
+    "patient_name": "Fatima Mohammed",
+    "date_of_birth": "1960-02-07",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.390220",
+    "last_modified": "2026-09-09T15:27:26.390222"
+  },
+  {
+    "record_id": "EHR1133",
+    "patient_name": "Ade Yakubu",
+    "date_of_birth": "1992-06-15",
+    "diagnosis": "Asthma",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC108",
+    "consented_doctors": [
+      "DOC108"
+    ],
+    "created_at": "2026-09-09T15:27:26.390234",
+    "last_modified": "2026-09-09T15:27:26.390235"
+  },
+  {
+    "record_id": "EHR1134",
+    "patient_name": "Ade Yakubu",
+    "date_of_birth": "1983-12-16",
+    "diagnosis": "Asthma",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.390247",
+    "last_modified": "2026-09-09T15:27:26.390249"
+  },
+  {
+    "record_id": "EHR1135",
+    "patient_name": "Emeka Bello",
+    "date_of_birth": "1962-08-03",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.390261",
+    "last_modified": "2026-09-09T15:27:26.390263"
+  },
+  {
+    "record_id": "EHR1136",
+    "patient_name": "Amaka Mohammed",
+    "date_of_birth": "1961-03-24",
+    "diagnosis": "Asthma",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC103",
+    "consented_doctors": [
+      "DOC103"
+    ],
+    "created_at": "2026-09-09T15:27:26.390274",
+    "last_modified": "2026-09-09T15:27:26.390276"
+  },
+  {
+    "record_id": "EHR1137",
+    "patient_name": "Emeka Bello",
+    "date_of_birth": "1973-10-24",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101",
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.390288",
+    "last_modified": "2026-09-09T15:27:26.390289"
+  },
+  {
+    "record_id": "EHR1138",
+    "patient_name": "Amaka Ibrahim",
+    "date_of_birth": "2003-04-15",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.390307",
+    "last_modified": "2026-09-09T15:27:26.390309"
+  },
+  {
+    "record_id": "EHR1139",
+    "patient_name": "Fatima Yakubu",
+    "date_of_birth": "2005-08-06",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.390320",
+    "last_modified": "2026-09-09T15:27:26.390321"
+  },
+  {
+    "record_id": "EHR1140",
+    "patient_name": "Tunde Mohammed",
+    "date_of_birth": "1983-12-20",
+    "diagnosis": "Migraine",
+    "medication": "Artemether",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101",
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.390334",
+    "last_modified": "2026-09-09T15:27:26.390336"
+  },
+  {
+    "record_id": "EHR1141",
+    "patient_name": "Blessing Okon",
+    "date_of_birth": "2003-12-05",
+    "diagnosis": "Migraine",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.390355",
+    "last_modified": "2026-09-09T15:27:26.390357"
+  },
+  {
+    "record_id": "EHR1142",
+    "patient_name": "Tunde Nwosu",
+    "date_of_birth": "1993-11-03",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Metformin",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.390368",
+    "last_modified": "2026-09-09T15:27:26.390370"
+  },
+  {
+    "record_id": "EHR1143",
+    "patient_name": "Musa Okon",
+    "date_of_birth": "1994-05-11",
+    "diagnosis": "Hypertension",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC103",
+    "consented_doctors": [
+      "DOC103"
+    ],
+    "created_at": "2026-09-09T15:27:26.390381",
+    "last_modified": "2026-09-09T15:27:26.390383"
+  },
+  {
+    "record_id": "EHR1144",
+    "patient_name": "Fatima Ibrahim",
+    "date_of_birth": "1973-08-24",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Artemether",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106",
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.390397",
+    "last_modified": "2026-09-09T15:27:26.390398"
+  },
+  {
+    "record_id": "EHR1145",
+    "patient_name": "Blessing Nwosu",
+    "date_of_birth": "1969-01-01",
+    "diagnosis": "Migraine",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102"
+    ],
+    "created_at": "2026-09-09T15:27:26.390414",
+    "last_modified": "2026-09-09T15:27:26.390416"
+  },
+  {
+    "record_id": "EHR1146",
+    "patient_name": "Ade Eze",
+    "date_of_birth": "1996-10-12",
+    "diagnosis": "Migraine",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107",
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.390428",
+    "last_modified": "2026-09-09T15:27:26.390430"
+  },
+  {
+    "record_id": "EHR1147",
+    "patient_name": "Tunde Okon",
+    "date_of_birth": "1995-08-29",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Artemether",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102",
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.390442",
+    "last_modified": "2026-09-09T15:27:26.390444"
+  },
+  {
+    "record_id": "EHR1148",
+    "patient_name": "Yusuf Ibrahim",
+    "date_of_birth": "1988-05-29",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.390456",
+    "last_modified": "2026-09-09T15:27:26.390458"
+  },
+  {
+    "record_id": "EHR1149",
+    "patient_name": "Ade Okon",
+    "date_of_birth": "1966-02-20",
+    "diagnosis": "Hypertension",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.390470",
+    "last_modified": "2026-09-09T15:27:26.390471"
+  },
+  {
+    "record_id": "EHR1150",
+    "patient_name": "Chidi Ibrahim",
+    "date_of_birth": "1968-10-30",
+    "diagnosis": "Migraine",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.390489",
+    "last_modified": "2026-09-09T15:27:26.390490"
+  },
+  {
+    "record_id": "EHR1151",
+    "patient_name": "Amaka Okafor",
+    "date_of_birth": "1964-02-16",
+    "diagnosis": "Type 2 Diabetes",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.390502",
+    "last_modified": "2026-09-09T15:27:26.390503"
+  },
+  {
+    "record_id": "EHR1152",
+    "patient_name": "Fatima Eze",
+    "date_of_birth": "1981-11-27",
+    "diagnosis": "Asthma",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC100",
+    "consented_doctors": [
+      "DOC100",
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.390515",
+    "last_modified": "2026-09-09T15:27:26.390517"
+  },
+  {
+    "record_id": "EHR1153",
+    "patient_name": "Ngozi Eze",
+    "date_of_birth": "1975-09-15",
+    "diagnosis": "Malaria",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.390533",
+    "last_modified": "2026-09-09T15:27:26.390535"
+  },
+  {
+    "record_id": "EHR1154",
+    "patient_name": "Musa Uche",
+    "date_of_birth": "1972-11-02",
+    "diagnosis": "Hypertension",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.390547",
+    "last_modified": "2026-09-09T15:27:26.390549"
+  },
+  {
+    "record_id": "EHR1155",
+    "patient_name": "Ade Uche",
+    "date_of_birth": "1985-10-21",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.390560",
+    "last_modified": "2026-09-09T15:27:26.390561"
+  },
+  {
+    "record_id": "EHR1156",
+    "patient_name": "Blessing Adeyemi",
+    "date_of_birth": "1998-01-24",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Metformin",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102",
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.390573",
+    "last_modified": "2026-09-09T15:27:26.390575"
+  },
+  {
+    "record_id": "EHR1157",
+    "patient_name": "Musa Ibrahim",
+    "date_of_birth": "2003-05-08",
+    "diagnosis": "Malaria",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.390587",
+    "last_modified": "2026-09-09T15:27:26.390589"
+  },
+  {
+    "record_id": "EHR1158",
+    "patient_name": "Blessing Adeyemi",
+    "date_of_birth": "1986-06-27",
+    "diagnosis": "Malaria",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.390600",
+    "last_modified": "2026-09-09T15:27:26.390602"
+  },
+  {
+    "record_id": "EHR1159",
+    "patient_name": "Ade Okon",
+    "date_of_birth": "2004-07-24",
+    "diagnosis": "Migraine",
+    "medication": "Metformin",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106",
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.390614",
+    "last_modified": "2026-09-09T15:27:26.390616"
+  },
+  {
+    "record_id": "EHR1160",
+    "patient_name": "Tunde Yakubu",
+    "date_of_birth": "1977-01-21",
+    "diagnosis": "Asthma",
+    "medication": "Metformin",
+    "attending_doctor": "DOC103",
+    "consented_doctors": [
+      "DOC103"
+    ],
+    "created_at": "2026-09-09T15:27:26.390628",
+    "last_modified": "2026-09-09T15:27:26.390630"
+  },
+  {
+    "record_id": "EHR1161",
+    "patient_name": "Ade Adeyemi",
+    "date_of_birth": "1999-07-19",
+    "diagnosis": "Malaria",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102"
+    ],
+    "created_at": "2026-09-09T15:27:26.390642",
+    "last_modified": "2026-09-09T15:27:26.390643"
+  },
+  {
+    "record_id": "EHR1162",
+    "patient_name": "Chidi Adeyemi",
+    "date_of_birth": "1989-04-23",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.390656",
+    "last_modified": "2026-09-09T15:27:26.390657"
+  },
+  {
+    "record_id": "EHR1163",
+    "patient_name": "Tunde Mohammed",
+    "date_of_birth": "2005-01-06",
+    "diagnosis": "Type 2 Diabetes",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102",
+      "DOC108"
+    ],
+    "created_at": "2026-09-09T15:27:26.390674",
+    "last_modified": "2026-09-09T15:27:26.390676"
+  },
+  {
+    "record_id": "EHR1164",
+    "patient_name": "Amaka Nwosu",
+    "date_of_birth": "1970-05-01",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Artemether",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102",
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.390688",
+    "last_modified": "2026-09-09T15:27:26.390690"
+  },
+  {
+    "record_id": "EHR1165",
+    "patient_name": "Musa Ibrahim",
+    "date_of_birth": "1992-10-24",
+    "diagnosis": "Malaria",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102"
+    ],
+    "created_at": "2026-09-09T15:27:26.390705",
+    "last_modified": "2026-09-09T15:27:26.390706"
+  },
+  {
+    "record_id": "EHR1166",
+    "patient_name": "Chidi Uche",
+    "date_of_birth": "1993-01-24",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106",
+      "DOC108"
+    ],
+    "created_at": "2026-09-09T15:27:26.390717",
+    "last_modified": "2026-09-09T15:27:26.390719"
+  },
+  {
+    "record_id": "EHR1167",
+    "patient_name": "Tunde Bello",
+    "date_of_birth": "1980-12-22",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Artemether",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.396152",
+    "last_modified": "2026-09-09T15:27:26.396161"
+  },
+  {
+    "record_id": "EHR1168",
+    "patient_name": "Yusuf Nwosu",
+    "date_of_birth": "1979-11-10",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Artemether",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.396193",
+    "last_modified": "2026-09-09T15:27:26.396194"
+  },
+  {
+    "record_id": "EHR1169",
+    "patient_name": "Amaka Ibrahim",
+    "date_of_birth": "1970-06-20",
+    "diagnosis": "Hypertension",
+    "medication": "Artemether",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.396206",
+    "last_modified": "2026-09-09T15:27:26.396207"
+  },
+  {
+    "record_id": "EHR1170",
+    "patient_name": "Emeka Bello",
+    "date_of_birth": "1968-09-19",
+    "diagnosis": "Hypertension",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC100",
+    "consented_doctors": [
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.396224",
+    "last_modified": "2026-09-09T15:27:26.396226"
+  },
+  {
+    "record_id": "EHR1171",
+    "patient_name": "Tunde Mohammed",
+    "date_of_birth": "1997-08-07",
+    "diagnosis": "Asthma",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102"
+    ],
+    "created_at": "2026-09-09T15:27:26.396234",
+    "last_modified": "2026-09-09T15:27:26.396235"
+  },
+  {
+    "record_id": "EHR1172",
+    "patient_name": "Chidi Uche",
+    "date_of_birth": "1996-08-12",
+    "diagnosis": "Type 2 Diabetes",
+    "medication": "Artemether",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102"
+    ],
+    "created_at": "2026-09-09T15:27:26.396243",
+    "last_modified": "2026-09-09T15:27:26.396244"
+  },
+  {
+    "record_id": "EHR1173",
+    "patient_name": "Musa Nwosu",
+    "date_of_birth": "1968-11-29",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Metformin",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105",
+      "DOC107"
+    ],
+    "created_at": "2026-09-09T15:27:26.396252",
+    "last_modified": "2026-09-09T15:27:26.396253"
+  },
+  {
+    "record_id": "EHR1174",
+    "patient_name": "Tunde Okafor",
+    "date_of_birth": "1995-09-20",
+    "diagnosis": "Type 2 Diabetes",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC108",
+    "consented_doctors": [
+      "DOC108"
+    ],
+    "created_at": "2026-09-09T15:27:26.396261",
+    "last_modified": "2026-09-09T15:27:26.396262"
+  },
+  {
+    "record_id": "EHR1175",
+    "patient_name": "Emeka Bello",
+    "date_of_birth": "1979-01-11",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.396269",
+    "last_modified": "2026-09-09T15:27:26.396270"
+  },
+  {
+    "record_id": "EHR1176",
+    "patient_name": "Ade Nwosu",
+    "date_of_birth": "1981-11-07",
+    "diagnosis": "Hypertension",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109"
+    ],
+    "created_at": "2026-09-09T15:27:26.396277",
+    "last_modified": "2026-09-09T15:27:26.396278"
+  },
+  {
+    "record_id": "EHR1177",
+    "patient_name": "Musa Okon",
+    "date_of_birth": "1979-05-17",
+    "diagnosis": "Migraine",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109",
+      "DOC108"
+    ],
+    "created_at": "2026-09-09T15:27:26.396289",
+    "last_modified": "2026-09-09T15:27:26.396290"
+  },
+  {
+    "record_id": "EHR1178",
+    "patient_name": "Ngozi Okon",
+    "date_of_birth": "1960-04-02",
+    "diagnosis": "Type 2 Diabetes",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC103",
+    "consented_doctors": [
+      "DOC103"
+    ],
+    "created_at": "2026-09-09T15:27:26.396298",
+    "last_modified": "2026-09-09T15:27:26.396299"
+  },
+  {
+    "record_id": "EHR1179",
+    "patient_name": "Yusuf Adeyemi",
+    "date_of_birth": "1975-08-27",
+    "diagnosis": "Malaria",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102"
+    ],
+    "created_at": "2026-09-09T15:27:26.396306",
+    "last_modified": "2026-09-09T15:27:26.396307"
+  },
+  {
+    "record_id": "EHR1180",
+    "patient_name": "Musa Okon",
+    "date_of_birth": "1989-01-17",
+    "diagnosis": "Malaria",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC100",
+    "consented_doctors": [
+      "DOC100",
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.396314",
+    "last_modified": "2026-09-09T15:27:26.396315"
+  },
+  {
+    "record_id": "EHR1181",
+    "patient_name": "Yusuf Bello",
+    "date_of_birth": "1965-09-13",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104",
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.396324",
+    "last_modified": "2026-09-09T15:27:26.396325"
+  },
+  {
+    "record_id": "EHR1182",
+    "patient_name": "Chidi Uche",
+    "date_of_birth": "2005-03-14",
+    "diagnosis": "Hypertension",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.396333",
+    "last_modified": "2026-09-09T15:27:26.396334"
+  },
+  {
+    "record_id": "EHR1183",
+    "patient_name": "Yusuf Adeyemi",
+    "date_of_birth": "2001-02-03",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Artemether",
+    "attending_doctor": "DOC100",
+    "consented_doctors": [
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.396341",
+    "last_modified": "2026-09-09T15:27:26.396342"
+  },
+  {
+    "record_id": "EHR1184",
+    "patient_name": "Fatima Ibrahim",
+    "date_of_birth": "1969-09-07",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC100",
+    "consented_doctors": [
+      "DOC100"
+    ],
+    "created_at": "2026-09-09T15:27:26.396349",
+    "last_modified": "2026-09-09T15:27:26.396350"
+  },
+  {
+    "record_id": "EHR1185",
+    "patient_name": "Tunde Okon",
+    "date_of_birth": "1973-04-22",
+    "diagnosis": "Malaria",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC107",
+    "consented_doctors": [
+      "DOC107",
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.396357",
+    "last_modified": "2026-09-09T15:27:26.396358"
+  },
+  {
+    "record_id": "EHR1186",
+    "patient_name": "Blessing Mohammed",
+    "date_of_birth": "1989-03-04",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Salbutamol",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.396365",
+    "last_modified": "2026-09-09T15:27:26.396366"
+  },
+  {
+    "record_id": "EHR1187",
+    "patient_name": "Blessing Ibrahim",
+    "date_of_birth": "1968-11-23",
+    "diagnosis": "Migraine",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC108",
+    "consented_doctors": [
+      "DOC108",
+      "DOC108"
+    ],
+    "created_at": "2026-09-09T15:27:26.396373",
+    "last_modified": "2026-09-09T15:27:26.396374"
+  },
+  {
+    "record_id": "EHR1188",
+    "patient_name": "Yusuf Yakubu",
+    "date_of_birth": "1998-08-01",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.396381",
+    "last_modified": "2026-09-09T15:27:26.396386"
+  },
+  {
+    "record_id": "EHR1189",
+    "patient_name": "Emeka Ibrahim",
+    "date_of_birth": "1997-04-27",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Artemether",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.396395",
+    "last_modified": "2026-09-09T15:27:26.396396"
+  },
+  {
+    "record_id": "EHR1190",
+    "patient_name": "Amaka Nwosu",
+    "date_of_birth": "1973-09-10",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Ciprofloxacin",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.396406",
+    "last_modified": "2026-09-09T15:27:26.396407"
+  },
+  {
+    "record_id": "EHR1191",
+    "patient_name": "Chidi Ibrahim",
+    "date_of_birth": "1968-08-30",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101",
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.396414",
+    "last_modified": "2026-09-09T15:27:26.396415"
+  },
+  {
+    "record_id": "EHR1192",
+    "patient_name": "Yusuf Okafor",
+    "date_of_birth": "1989-07-28",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Artemether",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105"
+    ],
+    "created_at": "2026-09-09T15:27:26.396422",
+    "last_modified": "2026-09-09T15:27:26.396423"
+  },
+  {
+    "record_id": "EHR1193",
+    "patient_name": "Fatima Okafor",
+    "date_of_birth": "1985-10-21",
+    "diagnosis": "Asthma",
+    "medication": "Metformin",
+    "attending_doctor": "DOC106",
+    "consented_doctors": [
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.396430",
+    "last_modified": "2026-09-09T15:27:26.396431"
+  },
+  {
+    "record_id": "EHR1194",
+    "patient_name": "Musa Eze",
+    "date_of_birth": "2003-04-05",
+    "diagnosis": "Hypertension",
+    "medication": "Paracetamol",
+    "attending_doctor": "DOC105",
+    "consented_doctors": [
+      "DOC105",
+      "DOC108"
+    ],
+    "created_at": "2026-09-09T15:27:26.396438",
+    "last_modified": "2026-09-09T15:27:26.396439"
+  },
+  {
+    "record_id": "EHR1195",
+    "patient_name": "Yusuf Nwosu",
+    "date_of_birth": "1970-04-22",
+    "diagnosis": "Migraine",
+    "medication": "Metformin",
+    "attending_doctor": "DOC101",
+    "consented_doctors": [
+      "DOC101"
+    ],
+    "created_at": "2026-09-09T15:27:26.396446",
+    "last_modified": "2026-09-09T15:27:26.396447"
+  },
+  {
+    "record_id": "EHR1196",
+    "patient_name": "Yusuf Okon",
+    "date_of_birth": "1962-05-10",
+    "diagnosis": "Asthma",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC109",
+    "consented_doctors": [
+      "DOC109",
+      "DOC106"
+    ],
+    "created_at": "2026-09-09T15:27:26.396454",
+    "last_modified": "2026-09-09T15:27:26.396455"
+  },
+  {
+    "record_id": "EHR1197",
+    "patient_name": "Amaka Nwosu",
+    "date_of_birth": "1991-06-29",
+    "diagnosis": "Malaria",
+    "medication": "Amlodipine",
+    "attending_doctor": "DOC104",
+    "consented_doctors": [
+      "DOC104",
+      "DOC104"
+    ],
+    "created_at": "2026-09-09T15:27:26.396462",
+    "last_modified": "2026-09-09T15:27:26.396463"
+  },
+  {
+    "record_id": "EHR1198",
+    "patient_name": "Fatima Bello",
+    "date_of_birth": "1972-09-22",
+    "diagnosis": "Peptic Ulcer",
+    "medication": "Omeprazole",
+    "attending_doctor": "DOC102",
+    "consented_doctors": [
+      "DOC102"
+    ],
+    "created_at": "2026-09-09T15:27:26.396470",
+    "last_modified": "2026-09-09T15:27:26.396471"
+  },
+  {
+    "record_id": "EHR1199",
+    "patient_name": "Musa Ibrahim",
+    "date_of_birth": "1997-08-31",
+    "diagnosis": "Typhoid Fever",
+    "medication": "Metformin",
+    "attending_doctor": "DOC100",
+    "consented_doctors": [
+      "DOC100",
+      "DOC108"
+    ],
+    "created_at": "2026-09-09T15:27:26.396478",
+    "last_modified": "2026-09-09T15:27:26.396479"
+  }
+]
